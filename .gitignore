@@ -31,7 +31,6 @@ venv.bak/
 
 # Data and result directories
 data/
-results/
 
 # OS-specific files
 .DS_Store
@@ -44,7 +43,7 @@ Thumbs.db
 *.joblib
 *.ckpt
 *.pt
-*.pth
+
 
 # TensorBoard and experiment tracking
 runs/

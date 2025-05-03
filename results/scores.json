@@ -1,0 +1,5249 @@
+[
+    {
+        "file_name": "1.png",
+        "file_path": "data/scores/1.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 2.842173203331033,
+            "Cracks": 1.2871287064993628,
+            "Filiform_Papillae": 3.434201033894677,
+            "Fungiform_Redness": 1.2651587007751606
+        }
+    },
+    {
+        "file_name": "10.png",
+        "file_path": "data/scores/10.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 0.23484618393832676,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 2.9674853317405576,
+            "Fungiform_Redness": 1.1763430153601284
+        }
+    },
+    {
+        "file_name": "100.png",
+        "file_path": "data/scores/100.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.2853368561894892,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 1.7863467411534903,
+            "Fungiform_Redness": 0.6270015537190035
+        }
+    },
+    {
+        "file_name": "101.png",
+        "file_path": "data/scores/101.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.1350696049105173,
+            "Cracks": 1.4356435572492892,
+            "Filiform_Papillae": 2.4678574396281507,
+            "Fungiform_Redness": 0.8591237073882421
+        }
+    },
+    {
+        "file_name": "102.png",
+        "file_path": "data/scores/102.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.3000765037520656,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.4427094389321518,
+            "Fungiform_Redness": 0.8263720295137779
+        }
+    },
+    {
+        "file_name": "103.png",
+        "file_path": "data/scores/103.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 0.22666330853604622,
+            "Cracks": 1.485148507499265,
+            "Filiform_Papillae": 3.1099444124991225,
+            "Fungiform_Redness": 1.187355588269883
+        }
+    },
+    {
+        "file_name": "104.png",
+        "file_path": "data/scores/104.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.7927873183593821,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 1.7892241094169845,
+            "Fungiform_Redness": 0.9074646118492419
+        }
+    },
+    {
+        "file_name": "105.png",
+        "file_path": "data/scores/105.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.6646360660028251,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.2230073378087276,
+            "Fungiform_Redness": 0.7226822196492072
+        }
+    },
+    {
+        "file_name": "106.png",
+        "file_path": "data/scores/106.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 1.0336025515721856,
+            "Cracks": 0.5445544527497305,
+            "Filiform_Papillae": 1.558344570821359,
+            "Fungiform_Redness": 0.36641833499728266
+        }
+    },
+    {
+        "file_name": "107.png",
+        "file_path": "data/scores/107.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.152782087827879,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 2.1436724811906926,
+            "Fungiform_Redness": 0.6147017969626544
+        }
+    },
+    {
+        "file_name": "108.png",
+        "file_path": "data/scores/108.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.6228987953824975,
+            "Cracks": 2.0297029602489953,
+            "Filiform_Papillae": 2.983188132483814,
+            "Fungiform_Redness": 1.241417309826859
+        }
+    },
+    {
+        "file_name": "109.png",
+        "file_path": "data/scores/109.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.43368484691978626,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 3.0873971637996167,
+            "Fungiform_Redness": 0.9928478070066884
+        }
+    },
+    {
+        "file_name": "11.png",
+        "file_path": "data/scores/11.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2700184015613661,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.3673067722558812,
+            "Fungiform_Redness": 0.6727680904868139
+        }
+    },
+    {
+        "file_name": "110.png",
+        "file_path": "data/scores/110.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 0.6433010411059014,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 1.8466235856959445,
+            "Fungiform_Redness": 0.6341525750889738
+        }
+    },
+    {
+        "file_name": "111.png",
+        "file_path": "data/scores/111.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.7097113797192143,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.4075033140504685,
+            "Fungiform_Redness": 0.6249992677354117
+        }
+    },
+    {
+        "file_name": "112.png",
+        "file_path": "data/scores/112.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 2.414643056032037,
+            "Cracks": 1.6336633582491913,
+            "Filiform_Papillae": 2.403160629647255,
+            "Fungiform_Redness": 1.192361303228862
+        }
+    },
+    {
+        "file_name": "113.png",
+        "file_path": "data/scores/113.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.30743211641230567,
+            "Cracks": 1.4356435572492892,
+            "Filiform_Papillae": 2.0732175937150448,
+            "Fungiform_Redness": 0.9465091885292803
+        }
+    },
+    {
+        "file_name": "114.png",
+        "file_path": "data/scores/114.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.4111283302945613,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 2.1216974246139495,
+            "Fungiform_Redness": 0.9249131039919698
+        }
+    },
+    {
+        "file_name": "115.png",
+        "file_path": "data/scores/115.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.1818691243509516,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.038917275836861,
+            "Fungiform_Redness": 0.5451938692465422
+        }
+    },
+    {
+        "file_name": "116.png",
+        "file_path": "data/scores/116.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.6659311675809365,
+            "Cracks": 1.1881188059994119,
+            "Filiform_Papillae": 2.1584826872528344,
+            "Fungiform_Redness": 1.067790510963978
+        }
+    },
+    {
+        "file_name": "117.png",
+        "file_path": "data/scores/117.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.24888331095867744,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 1.778113309837003,
+            "Fungiform_Redness": 1.031606342831928
+        }
+    },
+    {
+        "file_name": "118.png",
+        "file_path": "data/scores/118.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.5247967211357963,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 2.3376783775313807,
+            "Fungiform_Redness": 0.6757715194622015
+        }
+    },
+    {
+        "file_name": "119.png",
+        "file_path": "data/scores/119.png",
+        "scores": {
+            "Coated_Tongue": 0.023224312121299474,
+            "Jagged_Shape": 1.4575570208103705,
+            "Cracks": 1.2376237562493873,
+            "Filiform_Papillae": 2.555709325767463,
+            "Fungiform_Redness": 1.190931098954868
+        }
+    },
+    {
+        "file_name": "12.png",
+        "file_path": "data/scores/12.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.7208135013642583,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 1.7198050625572807,
+            "Fungiform_Redness": 0.6717669474950181
+        }
+    },
+    {
+        "file_name": "120.png",
+        "file_path": "data/scores/120.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 4.048645239371021,
+            "Cracks": 1.485148507499265,
+            "Filiform_Papillae": 2.688897160686041,
+            "Fungiform_Redness": 1.2508566580352198
+        }
+    },
+    {
+        "file_name": "121.png",
+        "file_path": "data/scores/121.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.3130244526512339,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 1.7779153340138207,
+            "Fungiform_Redness": 0.7530025502578817
+        }
+    },
+    {
+        "file_name": "122.png",
+        "file_path": "data/scores/122.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 2.0970448095061593,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.133731361507113,
+            "Fungiform_Redness": 0.4277740983516285
+        }
+    },
+    {
+        "file_name": "123.png",
+        "file_path": "data/scores/123.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.4097669220458425,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.4420457004517613,
+            "Fungiform_Redness": 0.4495132033163385
+        }
+    },
+    {
+        "file_name": "124.png",
+        "file_path": "data/scores/124.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 2.374546141961754,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 2.5357304913650225,
+            "Fungiform_Redness": 1.074798511906549
+        }
+    },
+    {
+        "file_name": "125.png",
+        "file_path": "data/scores/125.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 0.2956771984203089,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 1.9247503884018542,
+            "Fungiform_Redness": 0.8030596998476742
+        }
+    },
+    {
+        "file_name": "126.png",
+        "file_path": "data/scores/126.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.23806323273754548,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 1.5673076188275636,
+            "Fungiform_Redness": 0.577373465411409
+        }
+    },
+    {
+        "file_name": "127.png",
+        "file_path": "data/scores/127.png",
+        "scores": {
+            "Coated_Tongue": 0.012223322169104987,
+            "Jagged_Shape": 0.3098493110157389,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 2.497070751964619,
+            "Fungiform_Redness": 0.5931057124253438
+        }
+    },
+    {
+        "file_name": "128.png",
+        "file_path": "data/scores/128.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.7938044272082713,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 2.2695975406921165,
+            "Fungiform_Redness": 0.863271299782825
+        }
+    },
+    {
+        "file_name": "129.png",
+        "file_path": "data/scores/129.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 0.3667340229996011,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 2.0204186189147895,
+            "Fungiform_Redness": 0.6470244135549206
+        }
+    },
+    {
+        "file_name": "13.png",
+        "file_path": "data/scores/13.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2833888597584666,
+            "Cracks": 1.2871287064993628,
+            "Filiform_Papillae": 3.171621164344133,
+            "Fungiform_Redness": 0.8167896608780174
+        }
+    },
+    {
+        "file_name": "130.png",
+        "file_path": "data/scores/130.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.25374641657058905,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.9328281105340945,
+            "Fungiform_Redness": 0.807493333097056
+        }
+    },
+    {
+        "file_name": "131.png",
+        "file_path": "data/scores/131.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 3.23283461994179,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 1.8685105710419907,
+            "Fungiform_Redness": 0.563357463526267
+        }
+    },
+    {
+        "file_name": "132.png",
+        "file_path": "data/scores/132.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.25879735049260744,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 1.5686960023425542,
+            "Fungiform_Redness": 0.9350675543373277
+        }
+    },
+    {
+        "file_name": "133.png",
+        "file_path": "data/scores/133.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 3.658265594151638,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.8420525861002695,
+            "Fungiform_Redness": 0.47325459426464017
+        }
+    },
+    {
+        "file_name": "134.png",
+        "file_path": "data/scores/134.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.7479248619944219,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 2.7100628895721046,
+            "Fungiform_Redness": 0.8073503126696566
+        }
+    },
+    {
+        "file_name": "135.png",
+        "file_path": "data/scores/135.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.1249636524201414,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.633424933314104,
+            "Fungiform_Redness": 0.49771108734993885
+        }
+    },
+    {
+        "file_name": "136.png",
+        "file_path": "data/scores/136.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.9822821285871846,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 2.4849716462654623,
+            "Fungiform_Redness": 0.6598962520208672
+        }
+    },
+    {
+        "file_name": "137.png",
+        "file_path": "data/scores/137.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 2.847365627598926,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.7970344785279335,
+            "Fungiform_Redness": 0.4562351634041106
+        }
+    },
+    {
+        "file_name": "138.png",
+        "file_path": "data/scores/138.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.624767741337294,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 1.7713656963523117,
+            "Fungiform_Redness": 0.8094956190806477
+        }
+    },
+    {
+        "file_name": "139.png",
+        "file_path": "data/scores/139.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.339716519738362,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.4292232652424606,
+            "Fungiform_Redness": 0.6295759214121928
+        }
+    },
+    {
+        "file_name": "14.png",
+        "file_path": "data/scores/14.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.4188045877461669,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.5951947619601277,
+            "Fungiform_Redness": 0.5931057124253438
+        }
+    },
+    {
+        "file_name": "140.png",
+        "file_path": "data/scores/140.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.27156156906419016,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 1.9834929915201625,
+            "Fungiform_Redness": 0.7887576571077336
+        }
+    },
+    {
+        "file_name": "141.png",
+        "file_path": "data/scores/141.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.6553153644552137,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.57857073369557,
+            "Fungiform_Redness": 0.5816640782333913
+        }
+    },
+    {
+        "file_name": "142.png",
+        "file_path": "data/scores/142.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.38302598276802313,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 1.2974677163464472,
+            "Fungiform_Redness": 0.7565780609428668
+        }
+    },
+    {
+        "file_name": "143.png",
+        "file_path": "data/scores/143.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 0.5037254534471253,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 2.5626233466667356,
+            "Fungiform_Redness": 1.1983681611796373
+        }
+    },
+    {
+        "file_name": "144.png",
+        "file_path": "data/scores/144.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.29238120482381535,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 2.1907424332771583,
+            "Fungiform_Redness": 0.7614407554744467
+        }
+    },
+    {
+        "file_name": "145.png",
+        "file_path": "data/scores/145.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.37314708046304185,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.930385577112287,
+            "Fungiform_Redness": 0.6401594330397489
+        }
+    },
+    {
+        "file_name": "146.png",
+        "file_path": "data/scores/146.png",
+        "scores": {
+            "Coated_Tongue": 0.00855632551837349,
+            "Jagged_Shape": 0.3465660350524938,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 1.7731728366408621,
+            "Fungiform_Redness": 0.771738226247204
+        }
+    },
+    {
+        "file_name": "147.png",
+        "file_path": "data/scores/147.png",
+        "scores": {
+            "Coated_Tongue": 0.00855632551837349,
+            "Jagged_Shape": 1.2597265347815196,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 3.253926928680384,
+            "Fungiform_Redness": 0.7391295688001391
+        }
+    },
+    {
+        "file_name": "148.png",
+        "file_path": "data/scores/148.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 1.5542726723852942,
+            "Cracks": 1.2376237562493873,
+            "Filiform_Papillae": 2.726569889010823,
+            "Fungiform_Redness": 1.0323214449689249
+        }
+    },
+    {
+        "file_name": "149.png",
+        "file_path": "data/scores/149.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.2858750753516258,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 1.9862941940540528,
+            "Fungiform_Redness": 0.6887863783555476
+        }
+    },
+    {
+        "file_name": "15.png",
+        "file_path": "data/scores/15.png",
+        "scores": {
+            "Coated_Tongue": 0.03911463094113596,
+            "Jagged_Shape": 1.1224796575878524,
+            "Cracks": 1.485148507499265,
+            "Filiform_Papillae": 2.530563603043161,
+            "Fungiform_Redness": 1.008150992738425
+        }
+    },
+    {
+        "file_name": "150.png",
+        "file_path": "data/scores/150.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.28975276784124426,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 2.156855637026432,
+            "Fungiform_Redness": 0.6769156828813967
+        }
+    },
+    {
+        "file_name": "151.png",
+        "file_path": "data/scores/151.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.25884339869704803,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.331596789959097,
+            "Fungiform_Redness": 0.7761718594965856
+        }
+    },
+    {
+        "file_name": "152.png",
+        "file_path": "data/scores/152.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.34902569869396083,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.4149716024550976,
+            "Fungiform_Redness": 0.5705084848962374
+        }
+    },
+    {
+        "file_name": "153.png",
+        "file_path": "data/scores/153.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 2.38826808418601,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 2.3753499503066915,
+            "Fungiform_Redness": 0.7924761882201181
+        }
+    },
+    {
+        "file_name": "154.png",
+        "file_path": "data/scores/154.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.22035581707393154,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 1.8028531952533307,
+            "Fungiform_Redness": 0.7404167526467338
+        }
+    },
+    {
+        "file_name": "155.png",
+        "file_path": "data/scores/155.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.6035299923753353,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.4261642243571915,
+            "Fungiform_Redness": 0.5705084848962374
+        }
+    },
+    {
+        "file_name": "156.png",
+        "file_path": "data/scores/156.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.23776024990608854,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 2.186563703124105,
+            "Fungiform_Redness": 0.8864406090215291
+        }
+    },
+    {
+        "file_name": "157.png",
+        "file_path": "data/scores/157.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2545554457851906,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.0634760748249317,
+            "Fungiform_Redness": 0.8771442812405676
+        }
+    },
+    {
+        "file_name": "158.png",
+        "file_path": "data/scores/158.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 1.2982250481976414,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.9973811641231616,
+            "Fungiform_Redness": 0.5969672639651279
+        }
+    },
+    {
+        "file_name": "159.png",
+        "file_path": "data/scores/159.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.2764796265456775,
+            "Cracks": 1.6831683084991669,
+            "Filiform_Papillae": 2.610255382048715,
+            "Fungiform_Redness": 1.1041176995234276
+        }
+    },
+    {
+        "file_name": "16.png",
+        "file_path": "data/scores/16.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 3.6671160955945132,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.589296353795509,
+            "Fungiform_Redness": 0.9256282061289668
+        }
+    },
+    {
+        "file_name": "160.png",
+        "file_path": "data/scores/160.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.39986598877145707,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 3.054337741134808,
+            "Fungiform_Redness": 0.6550335574892874
+        }
+    },
+    {
+        "file_name": "161.png",
+        "file_path": "data/scores/161.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.3169453188920552,
+            "Cracks": 1.5346534577492403,
+            "Filiform_Papillae": 3.2955081781816977,
+            "Fungiform_Redness": 1.1371554182526908
+        }
+    },
+    {
+        "file_name": "162.png",
+        "file_path": "data/scores/162.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.3232905479645301,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 2.75634744422836,
+            "Fungiform_Redness": 0.6895014804925447
+        }
+    },
+    {
+        "file_name": "163.png",
+        "file_path": "data/scores/163.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 1.5119734245415293,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.542025959868816,
+            "Fungiform_Redness": 0.6750564173252044
+        }
+    },
+    {
+        "file_name": "164.png",
+        "file_path": "data/scores/164.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.2878173252967448,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.6222793768041166,
+            "Fungiform_Redness": 0.6438779641521336
+        }
+    },
+    {
+        "file_name": "165.png",
+        "file_path": "data/scores/165.png",
+        "scores": {
+            "Coated_Tongue": 0.01100098995219449,
+            "Jagged_Shape": 0.2143169331662936,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 1.5904995100396782,
+            "Fungiform_Redness": 0.732836669994565
+        }
+    },
+    {
+        "file_name": "166.png",
+        "file_path": "data/scores/166.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.30454561475021924,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 1.3027837323250067,
+            "Fungiform_Redness": 0.6709088249306217
+        }
+    },
+    {
+        "file_name": "167.png",
+        "file_path": "data/scores/167.png",
+        "scores": {
+            "Coated_Tongue": 0.013445654386015488,
+            "Jagged_Shape": 0.34086816450389545,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 2.088783724812568,
+            "Fungiform_Redness": 0.7276879346081865
+        }
+    },
+    {
+        "file_name": "168.png",
+        "file_path": "data/scores/168.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.2534451811312306,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 1.9045497300774794,
+            "Fungiform_Redness": 0.6977966652817102
+        }
+    },
+    {
+        "file_name": "169.png",
+        "file_path": "data/scores/169.png",
+        "scores": {
+            "Coated_Tongue": 0.051337953110240954,
+            "Jagged_Shape": 2.3721841885854897,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 3.64949138497252,
+            "Fungiform_Redness": 0.829947540198763
+        }
+    },
+    {
+        "file_name": "17.png",
+        "file_path": "data/scores/17.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 1.4963004247001186,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 3.6000802902964324,
+            "Fungiform_Redness": 1.444649337161417
+        }
+    },
+    {
+        "file_name": "170.png",
+        "file_path": "data/scores/170.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 1.0181525176117754,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.9096839743217855,
+            "Fungiform_Redness": 0.5527739518987108
+        }
+    },
+    {
+        "file_name": "171.png",
+        "file_path": "data/scores/171.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 2.2113941100466583,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 2.0223613652171086,
+            "Fungiform_Redness": 0.8100677007902453
+        }
+    },
+    {
+        "file_name": "172.png",
+        "file_path": "data/scores/172.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.25400932937425563,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 1.9911947939058796,
+            "Fungiform_Redness": 0.9057483667204491
+        }
+    },
+    {
+        "file_name": "173.png",
+        "file_path": "data/scores/173.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2973306293109254,
+            "Cracks": 0.5445544527497305,
+            "Filiform_Papillae": 1.0214701398972397,
+            "Fungiform_Redness": 0.5918185285787491
+        }
+    },
+    {
+        "file_name": "174.png",
+        "file_path": "data/scores/174.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.5499119881093373,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 1.8760131175143564,
+            "Fungiform_Redness": 0.4898449638429714
+        }
+    },
+    {
+        "file_name": "175.png",
+        "file_path": "data/scores/175.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 0.24527592261098868,
+            "Cracks": 1.1881188059994119,
+            "Filiform_Papillae": 1.7838421869700882,
+            "Fungiform_Redness": 0.8094956190806477
+        }
+    },
+    {
+        "file_name": "176.png",
+        "file_path": "data/scores/176.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.28562067872194163,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 2.0467068235264056,
+            "Fungiform_Redness": 0.7814636153103637
+        }
+    },
+    {
+        "file_name": "177.png",
+        "file_path": "data/scores/177.png",
+        "scores": {
+            "Coated_Tongue": 0.0061116610845524935,
+            "Jagged_Shape": 0.7263522354639911,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 2.3595231590897954,
+            "Fungiform_Redness": 0.8601248503800379
+        }
+    },
+    {
+        "file_name": "178.png",
+        "file_path": "data/scores/178.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.891584234789957,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.0428953228893194,
+            "Fungiform_Redness": 0.7193927498190209
+        }
+    },
+    {
+        "file_name": "179.png",
+        "file_path": "data/scores/179.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.23716926193295396,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 1.5473914299442146,
+            "Fungiform_Redness": 0.6498848221029087
+        }
+    },
+    {
+        "file_name": "18.png",
+        "file_path": "data/scores/18.png",
+        "scores": {
+            "Coated_Tongue": 0.0061116610845524935,
+            "Jagged_Shape": 0.2384671461168583,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 2.525018926391401,
+            "Fungiform_Redness": 0.7322645882849675
+        }
+    },
+    {
+        "file_name": "180.png",
+        "file_path": "data/scores/180.png",
+        "scores": {
+            "Coated_Tongue": 0.06600593971316694,
+            "Jagged_Shape": 1.1078468900057676,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 2.7732238695748834,
+            "Fungiform_Redness": 0.757722224362062
+        }
+    },
+    {
+        "file_name": "181.png",
+        "file_path": "data/scores/181.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.25177141694842414,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.197638735134484,
+            "Fungiform_Redness": 0.5393300317231665
+        }
+    },
+    {
+        "file_name": "182.png",
+        "file_path": "data/scores/182.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.26351984674887174,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.4945415115302316,
+            "Fungiform_Redness": 0.5340382759093885
+        }
+    },
+    {
+        "file_name": "183.png",
+        "file_path": "data/scores/183.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.18603836688546055,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.1551888773780064,
+            "Fungiform_Redness": 0.5198792535968471
+        }
+    },
+    {
+        "file_name": "184.png",
+        "file_path": "data/scores/184.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.43357837417360623,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.3558921223296005,
+            "Fungiform_Redness": 0.6497418016755092
+        }
+    },
+    {
+        "file_name": "185.png",
+        "file_path": "data/scores/185.png",
+        "scores": {
+            "Coated_Tongue": 0.012223322169104987,
+            "Jagged_Shape": 0.24114943327321395,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.48913208602238,
+            "Fungiform_Redness": 0.6650449874072459
+        }
+    },
+    {
+        "file_name": "186.png",
+        "file_path": "data/scores/186.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.196541502614378,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 1.7663217905021111,
+            "Fungiform_Redness": 0.7568641017976657
+        }
+    },
+    {
+        "file_name": "187.png",
+        "file_path": "data/scores/187.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 2.0755752516624035,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 1.781757518828563,
+            "Fungiform_Redness": 0.47883239093321706
+        }
+    },
+    {
+        "file_name": "188.png",
+        "file_path": "data/scores/188.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.7528371234641864,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 2.840741340487332,
+            "Fungiform_Redness": 0.9157597966384077
+        }
+    },
+    {
+        "file_name": "189.png",
+        "file_path": "data/scores/189.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 1.1619064074738903,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.2633837162806705,
+            "Fungiform_Redness": 0.4679628384508621
+        }
+    },
+    {
+        "file_name": "19.png",
+        "file_path": "data/scores/19.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.3053257880529545,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.4096265846199527,
+            "Fungiform_Redness": 0.9385000445949134
+        }
+    },
+    {
+        "file_name": "190.png",
+        "file_path": "data/scores/190.png",
+        "scores": {
+            "Coated_Tongue": 0.0061116610845524935,
+            "Jagged_Shape": 0.23715662900618045,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 2.4216059842847812,
+            "Fungiform_Redness": 1.0373271599279041
+        }
+    },
+    {
+        "file_name": "191.png",
+        "file_path": "data/scores/191.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.0229880134435256,
+            "Cracks": 1.1881188059994119,
+            "Filiform_Papillae": 1.7217664234240826,
+            "Fungiform_Redness": 0.7497130804276952
+        }
+    },
+    {
+        "file_name": "192.png",
+        "file_path": "data/scores/192.png",
+        "scores": {
+            "Coated_Tongue": 0.014667986602925984,
+            "Jagged_Shape": 2.250346846300678,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 2.1261113606041895,
+            "Fungiform_Redness": 0.743277161194722
+        }
+    },
+    {
+        "file_name": "193.png",
+        "file_path": "data/scores/193.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 0.3444651228056018,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 1.600108824563765,
+            "Fungiform_Redness": 0.5055772108569063
+        }
+    },
+    {
+        "file_name": "194.png",
+        "file_path": "data/scores/194.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.6778580517541366,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.6769804032005584,
+            "Fungiform_Redness": 0.7784601863349763
+        }
+    },
+    {
+        "file_name": "195.png",
+        "file_path": "data/scores/195.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.1968367147619747,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.8551620221811356,
+            "Fungiform_Redness": 0.5144444773556696
+        }
+    },
+    {
+        "file_name": "196.png",
+        "file_path": "data/scores/196.png",
+        "scores": {
+            "Coated_Tongue": 0.01833498325365748,
+            "Jagged_Shape": 0.2968143501338363,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 1.8052891099379211,
+            "Fungiform_Redness": 0.6777738054457932
+        }
+    },
+    {
+        "file_name": "197.png",
+        "file_path": "data/scores/197.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.6107316660631914,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 1.8990628609533131,
+            "Fungiform_Redness": 0.777316022915781
+        }
+    },
+    {
+        "file_name": "198.png",
+        "file_path": "data/scores/198.png",
+        "scores": {
+            "Coated_Tongue": 0.00977865773528399,
+            "Jagged_Shape": 3.206601375004211,
+            "Cracks": 1.9306930597490444,
+            "Filiform_Papillae": 4.33156843367675,
+            "Fungiform_Redness": 1.482120689140062
+        }
+    },
+    {
+        "file_name": "199.png",
+        "file_path": "data/scores/199.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.30299241593137927,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 1.379881496997073,
+            "Fungiform_Redness": 0.5969672639651279
+        }
+    },
+    {
+        "file_name": "2.png",
+        "file_path": "data/scores/2.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.2676507951397666,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 2.1008312923071464,
+            "Fungiform_Redness": 0.637012983636962
+        }
+    },
+    {
+        "file_name": "20.png",
+        "file_path": "data/scores/20.png",
+        "scores": {
+            "Coated_Tongue": 0.012223322169104987,
+            "Jagged_Shape": 4.150590650619467,
+            "Cracks": 2.1287128607489465,
+            "Filiform_Papillae": 4.627202902130081,
+            "Fungiform_Redness": 1.676485449975857
+        }
+    },
+    {
+        "file_name": "200.png",
+        "file_path": "data/scores/200.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2508738962011093,
+            "Cracks": 1.1881188059994119,
+            "Filiform_Papillae": 2.2179562947793388,
+            "Fungiform_Redness": 0.9027449377450615
+        }
+    },
+    {
+        "file_name": "201.png",
+        "file_path": "data/scores/201.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.0048151546811623,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 1.6176814206209786,
+            "Fungiform_Redness": 0.8599818299526386
+        }
+    },
+    {
+        "file_name": "202.png",
+        "file_path": "data/scores/202.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.12980826264923,
+            "Cracks": 1.7821782089991178,
+            "Filiform_Papillae": 2.4906002529657525,
+            "Fungiform_Redness": 1.36427185696295
+        }
+    },
+    {
+        "file_name": "203.png",
+        "file_path": "data/scores/203.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.5136436171688854,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 2.208990980471006,
+            "Fungiform_Redness": 0.7491409987180977
+        }
+    },
+    {
+        "file_name": "204.png",
+        "file_path": "data/scores/204.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.1700479468574043,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.3869689731858728,
+            "Fungiform_Redness": 0.589673222167758
+        }
+    },
+    {
+        "file_name": "205.png",
+        "file_path": "data/scores/205.png",
+        "scores": {
+            "Coated_Tongue": 0.0061116610845524935,
+            "Jagged_Shape": 0.21114909088183736,
+            "Cracks": 0.5445544527497305,
+            "Filiform_Papillae": 1.931937389607651,
+            "Fungiform_Redness": 0.6410175556041454
+        }
+    },
+    {
+        "file_name": "206.png",
+        "file_path": "data/scores/206.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 0.25154149427008365,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 1.6336504654709376,
+            "Fungiform_Redness": 0.6102681637132727
+        }
+    },
+    {
+        "file_name": "207.png",
+        "file_path": "data/scores/207.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.35452451671516094,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.589461501511027,
+            "Fungiform_Redness": 0.5988265295213201
+        }
+    },
+    {
+        "file_name": "208.png",
+        "file_path": "data/scores/208.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 0.25322291819692094,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.0466340572515405,
+            "Fungiform_Redness": 1.0220239741961676
+        }
+    },
+    {
+        "file_name": "209.png",
+        "file_path": "data/scores/209.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.311614994151932,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.3860503838320652,
+            "Fungiform_Redness": 0.6248562473080124
+        }
+    },
+    {
+        "file_name": "21.png",
+        "file_path": "data/scores/21.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.7888709846907123,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.047673197209494,
+            "Fungiform_Redness": 0.8183628855794111
+        }
+    },
+    {
+        "file_name": "210.png",
+        "file_path": "data/scores/210.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 3.26596536871865,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 1.6695540349567324,
+            "Fungiform_Redness": 0.5582087281398883
+        }
+    },
+    {
+        "file_name": "211.png",
+        "file_path": "data/scores/211.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.3697796145596497,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.371100918886325,
+            "Fungiform_Redness": 0.6272875945738022
+        }
+    },
+    {
+        "file_name": "212.png",
+        "file_path": "data/scores/212.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.2671646074387526,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.4342368851567397,
+            "Fungiform_Redness": 0.810639782499843
+        }
+    },
+    {
+        "file_name": "213.png",
+        "file_path": "data/scores/213.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.6116789028145885,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.7109652231344687,
+            "Fungiform_Redness": 0.5001424346157288
+        }
+    },
+    {
+        "file_name": "214.png",
+        "file_path": "data/scores/214.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.24600925042490177,
+            "Cracks": 0.495049502499755,
+            "Filiform_Papillae": 1.225846084101762,
+            "Fungiform_Redness": 0.599112570376119
+        }
+    },
+    {
+        "file_name": "215.png",
+        "file_path": "data/scores/215.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.254544623466355,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.2134844409772327,
+            "Fungiform_Redness": 0.6079798368748822
+        }
+    },
+    {
+        "file_name": "216.png",
+        "file_path": "data/scores/216.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.3841777863392628,
+            "Cracks": 0.29702970149985297,
+            "Filiform_Papillae": 0.8149076010549167,
+            "Fungiform_Redness": 0.2288326838390523
+        }
+    },
+    {
+        "file_name": "217.png",
+        "file_path": "data/scores/217.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.23255208351603243,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 1.2950019240758572,
+            "Fungiform_Redness": 0.715245157424438
+        }
+    },
+    {
+        "file_name": "218.png",
+        "file_path": "data/scores/218.png",
+        "scores": {
+            "Coated_Tongue": 0.01711265103674698,
+            "Jagged_Shape": 0.3484588989144879,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 3.1385505599388086,
+            "Fungiform_Redness": 0.6495987812481099
+        }
+    },
+    {
+        "file_name": "219.png",
+        "file_path": "data/scores/219.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.23558208741802036,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 2.393497816257576,
+            "Fungiform_Redness": 0.9302048598057477
+        }
+    },
+    {
+        "file_name": "22.png",
+        "file_path": "data/scores/22.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 8.05890491877575,
+            "Cracks": 1.8316831592490934,
+            "Filiform_Papillae": 3.8610096637881304,
+            "Fungiform_Redness": 1.4580932573369614
+        }
+    },
+    {
+        "file_name": "220.png",
+        "file_path": "data/scores/220.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.9839051980245717,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.8909162709940655,
+            "Fungiform_Redness": 0.6480255565467163
+        }
+    },
+    {
+        "file_name": "221.png",
+        "file_path": "data/scores/221.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 1.7532871730678647,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 1.7258382842275068,
+            "Fungiform_Redness": 0.6175622055106424
+        }
+    },
+    {
+        "file_name": "222.png",
+        "file_path": "data/scores/222.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.0257695366691961,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 2.086242345862913,
+            "Fungiform_Redness": 0.7132428714408463
+        }
+    },
+    {
+        "file_name": "223.png",
+        "file_path": "data/scores/223.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 2.0643776348799165,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.3753163178567864,
+            "Fungiform_Redness": 0.7786032067623755
+        }
+    },
+    {
+        "file_name": "224.png",
+        "file_path": "data/scores/224.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.6283586130932522,
+            "Cracks": 0.5445544527497305,
+            "Filiform_Papillae": 1.4483671127450193,
+            "Fungiform_Redness": 0.5660748516468558
+        }
+    },
+    {
+        "file_name": "225.png",
+        "file_path": "data/scores/225.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.47183814849948685,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.6868649677503935,
+            "Fungiform_Redness": 0.5195932127420482
+        }
+    },
+    {
+        "file_name": "226.png",
+        "file_path": "data/scores/226.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2865618209430434,
+            "Cracks": 0.495049502499755,
+            "Filiform_Papillae": 1.0606894008962127,
+            "Fungiform_Redness": 0.4200509952720605
+        }
+    },
+    {
+        "file_name": "227.png",
+        "file_path": "data/scores/227.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.7969967886829519,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.1679730918312394,
+            "Fungiform_Redness": 0.5923906102883468
+        }
+    },
+    {
+        "file_name": "228.png",
+        "file_path": "data/scores/228.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.24478622127627553,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.1280562774313236,
+            "Fungiform_Redness": 0.8216523554095972
+        }
+    },
+    {
+        "file_name": "229.png",
+        "file_path": "data/scores/229.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 0.28948268315130127,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.4741009279532171,
+            "Fungiform_Redness": 0.5891011404581604
+        }
+    },
+    {
+        "file_name": "23.png",
+        "file_path": "data/scores/23.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.3382338923511252,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 1.4936787015774393,
+            "Fungiform_Redness": 0.6959373997255179
+        }
+    },
+    {
+        "file_name": "230.png",
+        "file_path": "data/scores/230.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.4113919748108815,
+            "Cracks": 1.2871287064993628,
+            "Filiform_Papillae": 2.223468426875029,
+            "Fungiform_Redness": 1.1723384433929451
+        }
+    },
+    {
+        "file_name": "231.png",
+        "file_path": "data/scores/231.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.4432213451442146,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 1.5184148483311195,
+            "Fungiform_Redness": 0.5444787671095452
+        }
+    },
+    {
+        "file_name": "232.png",
+        "file_path": "data/scores/232.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.1325118863646768,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.6236399902134044,
+            "Fungiform_Redness": 0.5303197447970038
+        }
+    },
+    {
+        "file_name": "233.png",
+        "file_path": "data/scores/233.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 0.5346633719691286,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 1.5628752958878298,
+            "Fungiform_Redness": 0.7498561008550947
+        }
+    },
+    {
+        "file_name": "234.png",
+        "file_path": "data/scores/234.png",
+        "scores": {
+            "Coated_Tongue": 0.02200197990438898,
+            "Jagged_Shape": 0.6465306989291147,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 2.1189974121886443,
+            "Fungiform_Redness": 0.5433346036903499
+        }
+    },
+    {
+        "file_name": "235.png",
+        "file_path": "data/scores/235.png",
+        "scores": {
+            "Coated_Tongue": 0.012223322169104987,
+            "Jagged_Shape": 0.4952427734930732,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 2.3433468272958886,
+            "Fungiform_Redness": 0.744707365468716
+        }
+    },
+    {
+        "file_name": "236.png",
+        "file_path": "data/scores/236.png",
+        "scores": {
+            "Coated_Tongue": 0.024446644338209974,
+            "Jagged_Shape": 0.25954745868614937,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 1.6662387850625744,
+            "Fungiform_Redness": 0.6174191850832431
+        }
+    },
+    {
+        "file_name": "237.png",
+        "file_path": "data/scores/237.png",
+        "scores": {
+            "Coated_Tongue": 0.02811364098894147,
+            "Jagged_Shape": 0.35462080485357883,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.391981877934648,
+            "Fungiform_Redness": 0.7449934063235147
+        }
+    },
+    {
+        "file_name": "238.png",
+        "file_path": "data/scores/238.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.5606195351898178,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.400602450893981,
+            "Fungiform_Redness": 0.4799765543524123
+        }
+    },
+    {
+        "file_name": "239.png",
+        "file_path": "data/scores/239.png",
+        "scores": {
+            "Coated_Tongue": 0.0061116610845524935,
+            "Jagged_Shape": 1.9995499981522737,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 3.0996172489423595,
+            "Fungiform_Redness": 0.9303478802331472
+        }
+    },
+    {
+        "file_name": "24.png",
+        "file_path": "data/scores/24.png",
+        "scores": {
+            "Coated_Tongue": 0.012223322169104987,
+            "Jagged_Shape": 2.7005913361743605,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 2.9290065723787246,
+            "Fungiform_Redness": 1.231977961618498
+        }
+    },
+    {
+        "file_name": "240.png",
+        "file_path": "data/scores/240.png",
+        "scores": {
+            "Coated_Tongue": 0.013445654386015488,
+            "Jagged_Shape": 0.7630791035433877,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 2.132304079237792,
+            "Fungiform_Redness": 0.7961947193325027
+        }
+    },
+    {
+        "file_name": "241.png",
+        "file_path": "data/scores/241.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.4617474145703444,
+            "Cracks": 0.3960396019998039,
+            "Filiform_Papillae": 1.0439008615551975,
+            "Fungiform_Redness": 0.10712230012215636
+        }
+    },
+    {
+        "file_name": "242.png",
+        "file_path": "data/scores/242.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.907336245047647,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.0778678358407303,
+            "Fungiform_Redness": 0.5955370596911338
+        }
+    },
+    {
+        "file_name": "243.png",
+        "file_path": "data/scores/243.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.3386271768084157,
+            "Cracks": 1.1881188059994119,
+            "Filiform_Papillae": 1.9966065710333305,
+            "Fungiform_Redness": 0.9872700103381116
+        }
+    },
+    {
+        "file_name": "244.png",
+        "file_path": "data/scores/244.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.25311800216753155,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 0.9235397213838975,
+            "Fungiform_Redness": 0.788900677535133
+        }
+    },
+    {
+        "file_name": "245.png",
+        "file_path": "data/scores/245.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.108569990026473,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 1.7172038750143603,
+            "Fungiform_Redness": 0.8323788874645528
+        }
+    },
+    {
+        "file_name": "246.png",
+        "file_path": "data/scores/246.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.0645842579677978,
+            "Cracks": 1.2871287064993628,
+            "Filiform_Papillae": 1.9296747077620935,
+            "Fungiform_Redness": 0.9382140037401145
+        }
+    },
+    {
+        "file_name": "247.png",
+        "file_path": "data/scores/247.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.22922062973736912,
+            "Cracks": 1.1881188059994119,
+            "Filiform_Papillae": 2.073469337631307,
+            "Fungiform_Redness": 0.7339808334137604
+        }
+    },
+    {
+        "file_name": "248.png",
+        "file_path": "data/scores/248.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.5652867550291744,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.153128718930771,
+            "Fungiform_Redness": 0.5523448906165127
+        }
+    },
+    {
+        "file_name": "249.png",
+        "file_path": "data/scores/249.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 2.0522866295431186,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.224933917651085,
+            "Fungiform_Redness": 0.8541179924292629
+        }
+    },
+    {
+        "file_name": "25.png",
+        "file_path": "data/scores/25.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 4.878875286155045,
+            "Cracks": 2.1287128607489465,
+            "Filiform_Papillae": 3.4271263577069355,
+            "Fungiform_Redness": 1.7169602309298895
+        }
+    },
+    {
+        "file_name": "250.png",
+        "file_path": "data/scores/250.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.5786671920424818,
+            "Cracks": 0.495049502499755,
+            "Filiform_Papillae": 0.9826410359280163,
+            "Fungiform_Redness": 0.4985692099143353
+        }
+    },
+    {
+        "file_name": "251.png",
+        "file_path": "data/scores/251.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2170250858213011,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 1.7215333796243437,
+            "Fungiform_Redness": 0.7561489996606686
+        }
+    },
+    {
+        "file_name": "252.png",
+        "file_path": "data/scores/252.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.22889089355895928,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.8310784643463225,
+            "Fungiform_Redness": 0.7355540581151541
+        }
+    },
+    {
+        "file_name": "253.png",
+        "file_path": "data/scores/253.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.2335977355317343,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 1.902915260515058,
+            "Fungiform_Redness": 0.8592667278156416
+        }
+    },
+    {
+        "file_name": "254.png",
+        "file_path": "data/scores/254.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.7383314240206496,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 1.506033253797069,
+            "Fungiform_Redness": 0.5042900270103117
+        }
+    },
+    {
+        "file_name": "255.png",
+        "file_path": "data/scores/255.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.2839249638850424,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.2158725147664842,
+            "Fungiform_Redness": 0.7241124239232012
+        }
+    },
+    {
+        "file_name": "256.png",
+        "file_path": "data/scores/256.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.30177401441775226,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.5538404857226686,
+            "Fungiform_Redness": 0.7838949625761537
+        }
+    },
+    {
+        "file_name": "257.png",
+        "file_path": "data/scores/257.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.23271938905849585,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.2983948210531981,
+            "Fungiform_Redness": 0.6350106976533703
+        }
+    },
+    {
+        "file_name": "258.png",
+        "file_path": "data/scores/258.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.0302314462909958,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.5051748996238044,
+            "Fungiform_Redness": 0.48154977905380586
+        }
+    },
+    {
+        "file_name": "259.png",
+        "file_path": "data/scores/259.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 1.4628396486536945,
+            "Cracks": 0.3465346517498285,
+            "Filiform_Papillae": 1.1295746743148665,
+            "Fungiform_Redness": 0.10798042268655283
+        }
+    },
+    {
+        "file_name": "26.png",
+        "file_path": "data/scores/26.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.401733496609335,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 2.3323176180573473,
+            "Fungiform_Redness": 0.7920471269379201
+        }
+    },
+    {
+        "file_name": "260.png",
+        "file_path": "data/scores/260.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 2.6742787398956684,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 3.4076607966959256,
+            "Fungiform_Redness": 1.0959655351616613
+        }
+    },
+    {
+        "file_name": "261.png",
+        "file_path": "data/scores/261.png",
+        "scores": {
+            "Coated_Tongue": 0.012223322169104987,
+            "Jagged_Shape": 0.2329613436496938,
+            "Cracks": 1.6336633582491913,
+            "Filiform_Papillae": 2.6996590942567718,
+            "Fungiform_Redness": 1.123997538931945
+        }
+    },
+    {
+        "file_name": "262.png",
+        "file_path": "data/scores/262.png",
+        "scores": {
+            "Coated_Tongue": 0.0061116610845524935,
+            "Jagged_Shape": 2.6268272549814635,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 1.7733794504526468,
+            "Fungiform_Redness": 0.5776595062662078
+        }
+    },
+    {
+        "file_name": "263.png",
+        "file_path": "data/scores/263.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.3365650102460327,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.138427880665349,
+            "Fungiform_Redness": 0.7218240970848109
+        }
+    },
+    {
+        "file_name": "264.png",
+        "file_path": "data/scores/264.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.3282173457574575,
+            "Cracks": 1.1881188059994119,
+            "Filiform_Papillae": 2.428726388086382,
+            "Fungiform_Redness": 0.4869845552949833
+        }
+    },
+    {
+        "file_name": "265.png",
+        "file_path": "data/scores/265.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.34962812252774045,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.9083573969266392,
+            "Fungiform_Redness": 0.7264007507615917
+        }
+    },
+    {
+        "file_name": "266.png",
+        "file_path": "data/scores/266.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.5296108043801341,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 1.7218589520450143,
+            "Fungiform_Redness": 0.6520301285138997
+        }
+    },
+    {
+        "file_name": "267.png",
+        "file_path": "data/scores/267.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.4413311260097745,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.7157925061843278,
+            "Fungiform_Redness": 0.5390439908683677
+        }
+    },
+    {
+        "file_name": "268.png",
+        "file_path": "data/scores/268.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.4675816503370894,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.965297352887092,
+            "Fungiform_Redness": 0.7149591165696392
+        }
+    },
+    {
+        "file_name": "269.png",
+        "file_path": "data/scores/269.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.1154080623155536,
+            "Cracks": 0.29702970149985297,
+            "Filiform_Papillae": 1.213833615530156,
+            "Fungiform_Redness": 0.37371237679465236
+        }
+    },
+    {
+        "file_name": "27.png",
+        "file_path": "data/scores/27.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 3.078114476422699,
+            "Cracks": 1.5841584079992157,
+            "Filiform_Papillae": 4.428107890190509,
+            "Fungiform_Redness": 1.3113542988251692
+        }
+    },
+    {
+        "file_name": "270.png",
+        "file_path": "data/scores/270.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.23984663296670639,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 1.6118116540678709,
+            "Fungiform_Redness": 0.7222531583670089
+        }
+    },
+    {
+        "file_name": "271.png",
+        "file_path": "data/scores/271.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 4.991717293824064,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.2321130710277433,
+            "Fungiform_Redness": 0.5200222740242465
+        }
+    },
+    {
+        "file_name": "272.png",
+        "file_path": "data/scores/272.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.26718001608329184,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.3233346970746365,
+            "Fungiform_Redness": 0.596681223110329
+        }
+    },
+    {
+        "file_name": "273.png",
+        "file_path": "data/scores/273.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.4017414208473325,
+            "Cracks": 1.2376237562493873,
+            "Filiform_Papillae": 1.7488288513338972,
+            "Fungiform_Redness": 0.9849816834997209
+        }
+    },
+    {
+        "file_name": "274.png",
+        "file_path": "data/scores/274.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.28882839094793566,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.4768670285288361,
+            "Fungiform_Redness": 0.646881393127521
+        }
+    },
+    {
+        "file_name": "275.png",
+        "file_path": "data/scores/275.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.7496921319609293,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 1.268099403197771,
+            "Fungiform_Redness": 0.6049764078994946
+        }
+    },
+    {
+        "file_name": "276.png",
+        "file_path": "data/scores/276.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.364002946312067,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 1.2763042874522903,
+            "Fungiform_Redness": 0.702945400668089
+        }
+    },
+    {
+        "file_name": "277.png",
+        "file_path": "data/scores/277.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.23935121922198638,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 1.1779970375084357,
+            "Fungiform_Redness": 0.6566067821906808
+        }
+    },
+    {
+        "file_name": "278.png",
+        "file_path": "data/scores/278.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.4107316357847578,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 1.3408230439366153,
+            "Fungiform_Redness": 0.5326080716353944
+        }
+    },
+    {
+        "file_name": "279.png",
+        "file_path": "data/scores/279.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.270390663663955,
+            "Cracks": 0.495049502499755,
+            "Filiform_Papillae": 1.4724346455233681,
+            "Fungiform_Redness": 0.4608118170808917
+        }
+    },
+    {
+        "file_name": "28.png",
+        "file_path": "data/scores/28.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 5.1545270833706125,
+            "Cracks": 1.8316831592490934,
+            "Filiform_Papillae": 3.073238330651804,
+            "Fungiform_Redness": 0.9287746555317535
+        }
+    },
+    {
+        "file_name": "280.png",
+        "file_path": "data/scores/280.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 0.35311186383153054,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.6230887136823555,
+            "Fungiform_Redness": 0.6809202548485802
+        }
+    },
+    {
+        "file_name": "281.png",
+        "file_path": "data/scores/281.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.34133671793997167,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 1.545861793339884,
+            "Fungiform_Redness": 0.7880425549707365
+        }
+    },
+    {
+        "file_name": "282.png",
+        "file_path": "data/scores/282.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.19974897151065063,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 1.6584768150260558,
+            "Fungiform_Redness": 0.615273878672252
+        }
+    },
+    {
+        "file_name": "283.png",
+        "file_path": "data/scores/283.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.319999658842208,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 1.9382749874375023,
+            "Fungiform_Redness": 0.7714521853924051
+        }
+    },
+    {
+        "file_name": "284.png",
+        "file_path": "data/scores/284.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2918432682601997,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 1.122455773734624,
+            "Fungiform_Redness": 0.6056915100364917
+        }
+    },
+    {
+        "file_name": "285.png",
+        "file_path": "data/scores/285.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.7478312382595584,
+            "Cracks": 0.3465346517498285,
+            "Filiform_Papillae": 1.251397806119099,
+            "Fungiform_Redness": 0.42276838339264927
+        }
+    },
+    {
+        "file_name": "286.png",
+        "file_path": "data/scores/286.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.6540002699798333,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.2608172854070259,
+            "Fungiform_Redness": 0.4013153192827381
+        }
+    },
+    {
+        "file_name": "287.png",
+        "file_path": "data/scores/287.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.38239049099072747,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.0762275183761467,
+            "Fungiform_Redness": 0.5155886407748648
+        }
+    },
+    {
+        "file_name": "288.png",
+        "file_path": "data/scores/288.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.6560402097780056,
+            "Cracks": 0.5445544527497305,
+            "Filiform_Papillae": 1.2795503137131492,
+            "Fungiform_Redness": 0.2987696728373627
+        }
+    },
+    {
+        "file_name": "289.png",
+        "file_path": "data/scores/289.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.25381747450996184,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 1.4105779164633334,
+            "Fungiform_Redness": 0.7627279393210413
+        }
+    },
+    {
+        "file_name": "29.png",
+        "file_path": "data/scores/29.png",
+        "scores": {
+            "Coated_Tongue": 0.0061116610845524935,
+            "Jagged_Shape": 1.3325528148974053,
+            "Cracks": 1.4356435572492892,
+            "Filiform_Papillae": 1.9009599984752203,
+            "Fungiform_Redness": 0.7364121806795503
+        }
+    },
+    {
+        "file_name": "290.png",
+        "file_path": "data/scores/290.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 1.0280022578860617,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.4820746690339115,
+            "Fungiform_Redness": 0.4931344336731578
+        }
+    },
+    {
+        "file_name": "291.png",
+        "file_path": "data/scores/291.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2886683830393476,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.3102394146961116,
+            "Fungiform_Redness": 0.5360405618929801
+        }
+    },
+    {
+        "file_name": "292.png",
+        "file_path": "data/scores/292.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.25218933892828843,
+            "Cracks": 1.2871287064993628,
+            "Filiform_Papillae": 2.2295062165587027,
+            "Fungiform_Redness": 0.8090665577984495
+        }
+    },
+    {
+        "file_name": "293.png",
+        "file_path": "data/scores/293.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 1.9648471189196322,
+            "Cracks": 1.1881188059994119,
+            "Filiform_Papillae": 2.0857508182618862,
+            "Fungiform_Redness": 0.6777738054457932
+        }
+    },
+    {
+        "file_name": "294.png",
+        "file_path": "data/scores/294.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 0.3080046458759982,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.3454400867709604,
+            "Fungiform_Redness": 0.6628996809962548
+        }
+    },
+    {
+        "file_name": "295.png",
+        "file_path": "data/scores/295.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2782993034304319,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.4413492589653376,
+            "Fungiform_Redness": 0.7730254100937988
+        }
+    },
+    {
+        "file_name": "296.png",
+        "file_path": "data/scores/296.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.24511602237104194,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 1.4555527812530402,
+            "Fungiform_Redness": 0.690359603056941
+        }
+    },
+    {
+        "file_name": "297.png",
+        "file_path": "data/scores/297.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.24825165424825402,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.5863452468516035,
+            "Fungiform_Redness": 0.5600679936960806
+        }
+    },
+    {
+        "file_name": "298.png",
+        "file_path": "data/scores/298.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.5076284575319435,
+            "Cracks": 0.495049502499755,
+            "Filiform_Papillae": 1.265403465132693,
+            "Fungiform_Redness": 0.5303197447970038
+        }
+    },
+    {
+        "file_name": "299.png",
+        "file_path": "data/scores/299.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 0.5916525014414344,
+            "Cracks": 0.3960396019998039,
+            "Filiform_Papillae": 1.4754969389307933,
+            "Fungiform_Redness": 0.44179010023677046
+        }
+    },
+    {
+        "file_name": "3.png",
+        "file_path": "data/scores/3.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 3.658685934777641,
+            "Cracks": 1.7821782089991178,
+            "Filiform_Papillae": 2.7691323900006983,
+            "Fungiform_Redness": 1.141446031074673
+        }
+    },
+    {
+        "file_name": "30.png",
+        "file_path": "data/scores/30.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 3.453615460717914,
+            "Cracks": 1.5841584079992157,
+            "Filiform_Papillae": 2.704536323861486,
+            "Fungiform_Redness": 0.8815779144899492
+        }
+    },
+    {
+        "file_name": "300.png",
+        "file_path": "data/scores/300.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 1.7982823176602392,
+            "Cracks": 0.495049502499755,
+            "Filiform_Papillae": 1.4733775565550982,
+            "Fungiform_Redness": 0.3821505820112175
+        }
+    },
+    {
+        "file_name": "301.png",
+        "file_path": "data/scores/301.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.7176434892197943,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 0.9741027916720413,
+            "Fungiform_Redness": 0.630004982694391
+        }
+    },
+    {
+        "file_name": "302.png",
+        "file_path": "data/scores/302.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.5900305723610378,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 1.1958826847982027,
+            "Fungiform_Redness": 0.5364696231751784
+        }
+    },
+    {
+        "file_name": "303.png",
+        "file_path": "data/scores/303.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 0.4834054183061648,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 1.4537971904734246,
+            "Fungiform_Redness": 0.7206799336656156
+        }
+    },
+    {
+        "file_name": "304.png",
+        "file_path": "data/scores/304.png",
+        "scores": {
+            "Coated_Tongue": 0.00977865773528399,
+            "Jagged_Shape": 0.20387820660586722,
+            "Cracks": 1.7326732587491422,
+            "Filiform_Papillae": 2.6387626066399514,
+            "Fungiform_Redness": 1.216531755459362
+        }
+    },
+    {
+        "file_name": "305.png",
+        "file_path": "data/scores/305.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.32552779093368545,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 1.7189232808257582,
+            "Fungiform_Redness": 0.6966525018625149
+        }
+    },
+    {
+        "file_name": "306.png",
+        "file_path": "data/scores/306.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.3083275446292835,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 0.9379031996750498,
+            "Fungiform_Redness": 0.6484546178289147
+        }
+    },
+    {
+        "file_name": "307.png",
+        "file_path": "data/scores/307.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.33248326595570366,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.718539322079814,
+            "Fungiform_Redness": 0.6992268695557045
+        }
+    },
+    {
+        "file_name": "308.png",
+        "file_path": "data/scores/308.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.827499747607549,
+            "Cracks": 0.3960396019998039,
+            "Filiform_Papillae": 0.9766236149683936,
+            "Fungiform_Redness": 0.32451334976925605
+        }
+    },
+    {
+        "file_name": "309.png",
+        "file_path": "data/scores/309.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.3656007181437285,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 1.6350553335548743,
+            "Fungiform_Redness": 0.6962234405803168
+        }
+    },
+    {
+        "file_name": "31.png",
+        "file_path": "data/scores/31.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.33305698320391686,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 1.6566641420672172,
+            "Fungiform_Redness": 0.723969403495802
+        }
+    },
+    {
+        "file_name": "310.png",
+        "file_path": "data/scores/310.png",
+        "scores": {
+            "Coated_Tongue": 0.13445654386015488,
+            "Jagged_Shape": 4.410053457256766,
+            "Cracks": 2.0792079104989707,
+            "Filiform_Papillae": 4.090169061297988,
+            "Fungiform_Redness": 1.5118689380391386
+        }
+    },
+    {
+        "file_name": "311.png",
+        "file_path": "data/scores/311.png",
+        "scores": {
+            "Coated_Tongue": 0.09900890956975039,
+            "Jagged_Shape": 0.8446395303642497,
+            "Cracks": 1.485148507499265,
+            "Filiform_Papillae": 4.105391302044621,
+            "Fungiform_Redness": 1.2231106951197348
+        }
+    },
+    {
+        "file_name": "312.png",
+        "file_path": "data/scores/312.png",
+        "scores": {
+            "Coated_Tongue": 0.0061116610845524935,
+            "Jagged_Shape": 0.8599788049405239,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.473215072821234,
+            "Fungiform_Redness": 0.8841522821831385
+        }
+    },
+    {
+        "file_name": "313.png",
+        "file_path": "data/scores/313.png",
+        "scores": {
+            "Coated_Tongue": 0.014667986602925984,
+            "Jagged_Shape": 0.30513803904187287,
+            "Cracks": 1.2376237562493873,
+            "Filiform_Papillae": 2.8196042209054024,
+            "Fungiform_Redness": 0.9250561244193691
+        }
+    },
+    {
+        "file_name": "314.png",
+        "file_path": "data/scores/314.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.3001990887484961,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 2.3794943471238192,
+            "Fungiform_Redness": 0.8861545681667302
+        }
+    },
+    {
+        "file_name": "315.png",
+        "file_path": "data/scores/315.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 4.371793889399979,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 2.733826250670755,
+            "Fungiform_Redness": 1.5376126149710323
+        }
+    },
+    {
+        "file_name": "316.png",
+        "file_path": "data/scores/316.png",
+        "scores": {
+            "Coated_Tongue": 0.012223322169104987,
+            "Jagged_Shape": 2.1198743947008785,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 2.905940961811979,
+            "Fungiform_Redness": 1.3714228783329205
+        }
+    },
+    {
+        "file_name": "317.png",
+        "file_path": "data/scores/317.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.2713429800211274,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.935400999500332,
+            "Fungiform_Redness": 1.031749363259327
+        }
+    },
+    {
+        "file_name": "318.png",
+        "file_path": "data/scores/318.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.27070751578530905,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 2.219974300324438,
+            "Fungiform_Redness": 0.9224817567261798
+        }
+    },
+    {
+        "file_name": "319.png",
+        "file_path": "data/scores/319.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.21955015551730353,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 1.654853827235385,
+            "Fungiform_Redness": 0.7791752884719733
+        }
+    },
+    {
+        "file_name": "32.png",
+        "file_path": "data/scores/32.png",
+        "scores": {
+            "Coated_Tongue": 0.03178063763967297,
+            "Jagged_Shape": 3.201657002348,
+            "Cracks": 1.98019800999902,
+            "Filiform_Papillae": 3.8230119850912314,
+            "Fungiform_Redness": 1.5759420895140732
+        }
+    },
+    {
+        "file_name": "320.png",
+        "file_path": "data/scores/320.png",
+        "scores": {
+            "Coated_Tongue": 0.024446644338209974,
+            "Jagged_Shape": 5.1921804622701195,
+            "Cracks": 1.5346534577492403,
+            "Filiform_Papillae": 3.976038278190696,
+            "Fungiform_Redness": 1.1357252139786966
+        }
+    },
+    {
+        "file_name": "321.png",
+        "file_path": "data/scores/321.png",
+        "scores": {
+            "Coated_Tongue": 0.0061116610845524935,
+            "Jagged_Shape": 4.660096801196058,
+            "Cracks": 1.8316831592490934,
+            "Filiform_Papillae": 3.922418884935202,
+            "Fungiform_Redness": 1.3289458113952966
+        }
+    },
+    {
+        "file_name": "322.png",
+        "file_path": "data/scores/322.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 1.8689888894150353,
+            "Cracks": 1.2376237562493873,
+            "Filiform_Papillae": 2.9360310852507014,
+            "Fungiform_Redness": 0.6474534748371187
+        }
+    },
+    {
+        "file_name": "323.png",
+        "file_path": "data/scores/323.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.23599875485055616,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 1.2225538123064847,
+            "Fungiform_Redness": 0.665474048689444
+        }
+    },
+    {
+        "file_name": "324.png",
+        "file_path": "data/scores/324.png",
+        "scores": {
+            "Coated_Tongue": 0.03666996650731496,
+            "Jagged_Shape": 0.2961071325007148,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 2.958254640329074,
+            "Fungiform_Redness": 0.8280882746425706
+        }
+    },
+    {
+        "file_name": "325.png",
+        "file_path": "data/scores/325.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.983788776506702,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 2.322171227718515,
+            "Fungiform_Redness": 1.0549186724980313
+        }
+    },
+    {
+        "file_name": "326.png",
+        "file_path": "data/scores/326.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.8866280559924727,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 1.669663118755738,
+            "Fungiform_Redness": 0.5577796668576901
+        }
+    },
+    {
+        "file_name": "327.png",
+        "file_path": "data/scores/327.png",
+        "scores": {
+            "Coated_Tongue": 0.015890318819836484,
+            "Jagged_Shape": 0.5663762952322446,
+            "Cracks": 1.4356435572492892,
+            "Filiform_Papillae": 3.120742779648877,
+            "Fungiform_Redness": 1.0650731228433894
+        }
+    },
+    {
+        "file_name": "328.png",
+        "file_path": "data/scores/328.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2098434737079597,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 1.8423488429540988,
+            "Fungiform_Redness": 0.9184771847589963
+        }
+    },
+    {
+        "file_name": "329.png",
+        "file_path": "data/scores/329.png",
+        "scores": {
+            "Coated_Tongue": 0.01100098995219449,
+            "Jagged_Shape": 0.28871938157191745,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.5141595464166215,
+            "Fungiform_Redness": 0.9266293491207624
+        }
+    },
+    {
+        "file_name": "33.png",
+        "file_path": "data/scores/33.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.6401568037474004,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 2.382805423914281,
+            "Fungiform_Redness": 0.9021728560354638
+        }
+    },
+    {
+        "file_name": "330.png",
+        "file_path": "data/scores/330.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.4748370933150822,
+            "Cracks": 1.8811881094990688,
+            "Filiform_Papillae": 3.0950376679301557,
+            "Fungiform_Redness": 0.9798329481133422
+        }
+    },
+    {
+        "file_name": "331.png",
+        "file_path": "data/scores/331.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.27966234138926194,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 2.3967640706409474,
+            "Fungiform_Redness": 1.0700788378023687
+        }
+    },
+    {
+        "file_name": "332.png",
+        "file_path": "data/scores/332.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 4.7781305016749265,
+            "Cracks": 1.1881188059994119,
+            "Filiform_Papillae": 2.614497491355847,
+            "Fungiform_Redness": 0.9977105015382682
+        }
+    },
+    {
+        "file_name": "333.png",
+        "file_path": "data/scores/333.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.2940578425793683,
+            "Cracks": 1.1881188059994119,
+            "Filiform_Papillae": 2.010008686091109,
+            "Fungiform_Redness": 0.6714809066402192
+        }
+    },
+    {
+        "file_name": "334.png",
+        "file_path": "data/scores/334.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.33102367993687565,
+            "Cracks": 1.2871287064993628,
+            "Filiform_Papillae": 2.3513490359273126,
+            "Fungiform_Redness": 1.2605820470983795
+        }
+    },
+    {
+        "file_name": "335.png",
+        "file_path": "data/scores/335.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 2.1506058584534715,
+            "Cracks": 1.5346534577492403,
+            "Filiform_Papillae": 3.634879067535206,
+            "Fungiform_Redness": 0.9969953994012712
+        }
+    },
+    {
+        "file_name": "336.png",
+        "file_path": "data/scores/336.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.948681737899651,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 2.477957324455206,
+            "Fungiform_Redness": 0.6453081684261276
+        }
+    },
+    {
+        "file_name": "337.png",
+        "file_path": "data/scores/337.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 0.33407449294319663,
+            "Cracks": 1.5346534577492403,
+            "Filiform_Papillae": 2.486998888766941,
+            "Fungiform_Redness": 0.7768869616335827
+        }
+    },
+    {
+        "file_name": "338.png",
+        "file_path": "data/scores/338.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 3.4831609181484473,
+            "Cracks": 1.6336633582491913,
+            "Filiform_Papillae": 3.2587179327190667,
+            "Fungiform_Redness": 1.6145576049119135
+        }
+    },
+    {
+        "file_name": "339.png",
+        "file_path": "data/scores/339.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 2.0763773170512434,
+            "Cracks": 1.2871287064993628,
+            "Filiform_Papillae": 2.4027394967333535,
+            "Fungiform_Redness": 0.8202221511356033
+        }
+    },
+    {
+        "file_name": "34.png",
+        "file_path": "data/scores/34.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.3051184905302541,
+            "Cracks": 1.1881188059994119,
+            "Filiform_Papillae": 2.856204598403203,
+            "Fungiform_Redness": 0.7020872781036925
+        }
+    },
+    {
+        "file_name": "340.png",
+        "file_path": "data/scores/340.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.44470380461546355,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 2.381841410699483,
+            "Fungiform_Redness": 0.7096673607558611
+        }
+    },
+    {
+        "file_name": "341.png",
+        "file_path": "data/scores/341.png",
+        "scores": {
+            "Coated_Tongue": 0.04278162759186746,
+            "Jagged_Shape": 2.453506885903073,
+            "Cracks": 0.5940594029997059,
+            "Filiform_Papillae": 3.44361334568488,
+            "Fungiform_Redness": 0.303775387796342
+        }
+    },
+    {
+        "file_name": "342.png",
+        "file_path": "data/scores/342.png",
+        "scores": {
+            "Coated_Tongue": 0.08311859074991391,
+            "Jagged_Shape": 9.999995579191964,
+            "Cracks": 2.920792064748554,
+            "Filiform_Papillae": 6.892618194038485,
+            "Fungiform_Redness": 1.5350382472778428
+        }
+    },
+    {
+        "file_name": "343.png",
+        "file_path": "data/scores/343.png",
+        "scores": {
+            "Coated_Tongue": 2.189197000486703,
+            "Jagged_Shape": 1.1512027300414933,
+            "Cracks": 4.207920771247917,
+            "Filiform_Papillae": 6.667769243633508,
+            "Fungiform_Redness": 2.478973068113934
+        }
+    },
+    {
+        "file_name": "344.png",
+        "file_path": "data/scores/344.png",
+        "scores": {
+            "Coated_Tongue": 1.129434968425301,
+            "Jagged_Shape": 1.5926256391176528,
+            "Cracks": 2.0792079104989707,
+            "Filiform_Papillae": 4.123841748728628,
+            "Fungiform_Redness": 0.6076937960200834
+        }
+    },
+    {
+        "file_name": "345.png",
+        "file_path": "data/scores/345.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.5294480888376643,
+            "Cracks": 6.039603930497011,
+            "Filiform_Papillae": 7.228940011597692,
+            "Fungiform_Redness": 5.427911260662322
+        }
+    },
+    {
+        "file_name": "346.png",
+        "file_path": "data/scores/346.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.2186793944836016,
+            "Cracks": 4.405940572247819,
+            "Filiform_Papillae": 3.1010874097560466,
+            "Fungiform_Redness": 5.755428039406965
+        }
+    },
+    {
+        "file_name": "347.png",
+        "file_path": "data/scores/347.png",
+        "scores": {
+            "Coated_Tongue": 0.44370659473851104,
+            "Jagged_Shape": 1.7020791263932629,
+            "Cracks": 2.52475246274875,
+            "Filiform_Papillae": 6.292312939283584,
+            "Fungiform_Redness": 1.8338079201152055
+        }
+    },
+    {
+        "file_name": "348.png",
+        "file_path": "data/scores/348.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.1191934006598245,
+            "Cracks": 4.950495024997549,
+            "Filiform_Papillae": 2.70833261757726,
+            "Fungiform_Redness": 4.547620530018967
+        }
+    },
+    {
+        "file_name": "349.png",
+        "file_path": "data/scores/349.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.8552787301460218,
+            "Cracks": 2.722772263748652,
+            "Filiform_Papillae": 4.38269791638323,
+            "Fungiform_Redness": 3.9672436356321708
+        }
+    },
+    {
+        "file_name": "35.png",
+        "file_path": "data/scores/35.png",
+        "scores": {
+            "Coated_Tongue": 0.01711265103674698,
+            "Jagged_Shape": 3.8100099823586024,
+            "Cracks": 1.7821782089991178,
+            "Filiform_Papillae": 3.263513100940555,
+            "Fungiform_Redness": 1.6962222689569753
+        }
+    },
+    {
+        "file_name": "350.png",
+        "file_path": "data/scores/350.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 8.146431679965891,
+            "Cracks": 3.3663366169983338,
+            "Filiform_Papillae": 7.151403224294399,
+            "Fungiform_Redness": 2.0649289307926484
+        }
+    },
+    {
+        "file_name": "351.png",
+        "file_path": "data/scores/351.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.7851091114082329,
+            "Cracks": 5.643564328497206,
+            "Filiform_Papillae": 3.159425485934593,
+            "Fungiform_Redness": 6.068356734556869
+        }
+    },
+    {
+        "file_name": "352.png",
+        "file_path": "data/scores/352.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.5474946648083492,
+            "Cracks": 3.663366318498187,
+            "Filiform_Papillae": 1.9451674368236571,
+            "Fungiform_Redness": 3.562924887374045
+        }
+    },
+    {
+        "file_name": "353.png",
+        "file_path": "data/scores/353.png",
+        "scores": {
+            "Coated_Tongue": 0.5940534574185024,
+            "Jagged_Shape": 7.139695607232701,
+            "Cracks": 2.722772263748652,
+            "Filiform_Papillae": 8.031578314858796,
+            "Fungiform_Redness": 1.1209941099565577
+        }
+    },
+    {
+        "file_name": "354.png",
+        "file_path": "data/scores/354.png",
+        "scores": {
+            "Coated_Tongue": 0.03666996650731496,
+            "Jagged_Shape": 2.1754524802455872,
+            "Cracks": 3.51485146774826,
+            "Filiform_Papillae": 2.757727169383349,
+            "Fungiform_Redness": 2.2828920621493456
+        }
+    },
+    {
+        "file_name": "355.png",
+        "file_path": "data/scores/355.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 4.803564120280134,
+            "Cracks": 2.722772263748652,
+            "Filiform_Papillae": 5.68152520602074,
+            "Fungiform_Redness": 2.556633160191812
+        }
+    },
+    {
+        "file_name": "356.png",
+        "file_path": "data/scores/356.png",
+        "scores": {
+            "Coated_Tongue": 1.2932274854913075,
+            "Jagged_Shape": 2.0814694459057153,
+            "Cracks": 3.7128712687481618,
+            "Filiform_Papillae": 8.49059123934728,
+            "Fungiform_Redness": 1.0497699371116527
+        }
+    },
+    {
+        "file_name": "357.png",
+        "file_path": "data/scores/357.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.893523221632426,
+            "Cracks": 6.584158383246741,
+            "Filiform_Papillae": 3.393946978300277,
+            "Fungiform_Redness": 5.954369453919542
+        }
+    },
+    {
+        "file_name": "358.png",
+        "file_path": "data/scores/358.png",
+        "scores": {
+            "Coated_Tongue": 0.015890318819836484,
+            "Jagged_Shape": 0.6528128145993914,
+            "Cracks": 2.2277227612488972,
+            "Filiform_Papillae": 3.8326050963270237,
+            "Fungiform_Redness": 1.2724527425725305
+        }
+    },
+    {
+        "file_name": "359.png",
+        "file_path": "data/scores/359.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.7175841251938821,
+            "Cracks": 1.5346534577492403,
+            "Filiform_Papillae": 2.28227459764505,
+            "Fungiform_Redness": 1.914328420741072
+        }
+    },
+    {
+        "file_name": "36.png",
+        "file_path": "data/scores/36.png",
+        "scores": {
+            "Coated_Tongue": 0.01833498325365748,
+            "Jagged_Shape": 3.0390706279120927,
+            "Cracks": 1.8811881094990688,
+            "Filiform_Papillae": 3.5728975106274543,
+            "Fungiform_Redness": 1.134151989277303
+        }
+    },
+    {
+        "file_name": "360.png",
+        "file_path": "data/scores/360.png",
+        "scores": {
+            "Coated_Tongue": 0.015890318819836484,
+            "Jagged_Shape": 6.372642134183156,
+            "Cracks": 2.1287128607489465,
+            "Filiform_Papillae": 4.812593504364849,
+            "Fungiform_Redness": 2.312783331475822
+        }
+    },
+    {
+        "file_name": "361.png",
+        "file_path": "data/scores/361.png",
+        "scores": {
+            "Coated_Tongue": 1.2920051532743972,
+            "Jagged_Shape": 4.233658887949772,
+            "Cracks": 3.7128712687481618,
+            "Filiform_Papillae": 8.371836692392925,
+            "Fungiform_Redness": 2.9131830856985355
+        }
+    },
+    {
+        "file_name": "362.png",
+        "file_path": "data/scores/362.png",
+        "scores": {
+            "Coated_Tongue": 0.05622728197788294,
+            "Jagged_Shape": 4.178881900961483,
+            "Cracks": 3.7128712687481618,
+            "Filiform_Papillae": 6.299264370455094,
+            "Fungiform_Redness": 3.7715916909497804
+        }
+    },
+    {
+        "file_name": "363.png",
+        "file_path": "data/scores/363.png",
+        "scores": {
+            "Coated_Tongue": 0.01833498325365748,
+            "Jagged_Shape": 1.0497844606127091,
+            "Cracks": 3.0693069154984807,
+            "Filiform_Papillae": 4.778924664692521,
+            "Fungiform_Redness": 2.925625862882284
+        }
+    },
+    {
+        "file_name": "364.png",
+        "file_path": "data/scores/364.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 0.28437595907454716,
+            "Cracks": 3.96039601999804,
+            "Filiform_Papillae": 2.985402995126542,
+            "Fungiform_Redness": 5.020732103856208
+        }
+    },
+    {
+        "file_name": "365.png",
+        "file_path": "data/scores/365.png",
+        "scores": {
+            "Coated_Tongue": 0.03055830542276247,
+            "Jagged_Shape": 0.9457959242401898,
+            "Cracks": 7.128712835996471,
+            "Filiform_Papillae": 4.654394074521205,
+            "Fungiform_Redness": 7.622416698678833
+        }
+    },
+    {
+        "file_name": "366.png",
+        "file_path": "data/scores/366.png",
+        "scores": {
+            "Coated_Tongue": 0.1955731547056798,
+            "Jagged_Shape": 1.823442591610032,
+            "Cracks": 1.2376237562493873,
+            "Filiform_Papillae": 3.649837769239493,
+            "Fungiform_Redness": 0.8127850889108341
+        }
+    },
+    {
+        "file_name": "367.png",
+        "file_path": "data/scores/367.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.4653839161125517,
+            "Cracks": 3.7128712687481618,
+            "Filiform_Papillae": 2.8534692111622224,
+            "Fungiform_Redness": 3.03775387796342
+        }
+    },
+    {
+        "file_name": "368.png",
+        "file_path": "data/scores/368.png",
+        "scores": {
+            "Coated_Tongue": 0.07333993301462992,
+            "Jagged_Shape": 2.808458442613519,
+            "Cracks": 3.5643564179982357,
+            "Filiform_Papillae": 4.688657159903215,
+            "Fungiform_Redness": 0.5270302749668174
+        }
+    },
+    {
+        "file_name": "369.png",
+        "file_path": "data/scores/369.png",
+        "scores": {
+            "Coated_Tongue": 0.00855632551837349,
+            "Jagged_Shape": 1.4307506771342795,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 2.8216012694280668,
+            "Fungiform_Redness": 0.7458515288879113
+        }
+    },
+    {
+        "file_name": "37.png",
+        "file_path": "data/scores/37.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 3.7524600479179258,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 2.6292775396199124,
+            "Fungiform_Redness": 0.807493333097056
+        }
+    },
+    {
+        "file_name": "370.png",
+        "file_path": "data/scores/370.png",
+        "scores": {
+            "Coated_Tongue": 0.01711265103674698,
+            "Jagged_Shape": 2.165640824573133,
+            "Cracks": 3.7128712687481618,
+            "Filiform_Papillae": 4.05894357286424,
+            "Fungiform_Redness": 2.8618387522621482
+        }
+    },
+    {
+        "file_name": "371.png",
+        "file_path": "data/scores/371.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 6.305146419976449,
+            "Cracks": 6.188118781246937,
+            "Filiform_Papillae": 6.816928344104417,
+            "Fungiform_Redness": 5.602253161662199
+        }
+    },
+    {
+        "file_name": "372.png",
+        "file_path": "data/scores/372.png",
+        "scores": {
+            "Coated_Tongue": 0.05500494976097245,
+            "Jagged_Shape": 1.7465327733224336,
+            "Cracks": 3.8613861194980887,
+            "Filiform_Papillae": 5.774732666348169,
+            "Fungiform_Redness": 0.6634717627058524
+        }
+    },
+    {
+        "file_name": "373.png",
+        "file_path": "data/scores/373.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 3.5704236553375095,
+            "Cracks": 2.97029701499853,
+            "Filiform_Papillae": 5.020367031208065,
+            "Fungiform_Redness": 3.0224506922316827
+        }
+    },
+    {
+        "file_name": "374.png",
+        "file_path": "data/scores/374.png",
+        "scores": {
+            "Coated_Tongue": 0.015890318819836484,
+            "Jagged_Shape": 0.5202063389254061,
+            "Cracks": 1.2376237562493873,
+            "Filiform_Papillae": 1.9915133572751342,
+            "Fungiform_Redness": 1.7594372978675135
+        }
+    },
+    {
+        "file_name": "375.png",
+        "file_path": "data/scores/375.png",
+        "scores": {
+            "Coated_Tongue": 0.0061116610845524935,
+            "Jagged_Shape": 1.2038801576388178,
+            "Cracks": 1.5841584079992157,
+            "Filiform_Papillae": 2.4076783697620874,
+            "Fungiform_Redness": 1.569077108998902
+        }
+    },
+    {
+        "file_name": "376.png",
+        "file_path": "data/scores/376.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 7.2396162241405735,
+            "Cracks": 3.7623762189981376,
+            "Filiform_Papillae": 5.568440779254206,
+            "Fungiform_Redness": 3.7301157670039524
+        }
+    },
+    {
+        "file_name": "377.png",
+        "file_path": "data/scores/377.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.0,
+            "Cracks": 0.0,
+            "Filiform_Papillae": 0.0,
+            "Fungiform_Redness": 0.0
+        }
+    },
+    {
+        "file_name": "378.png",
+        "file_path": "data/scores/378.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 5.834054396092615,
+            "Cracks": 2.1287128607489465,
+            "Filiform_Papillae": 4.247067342325771,
+            "Fungiform_Redness": 2.186496294082145
+        }
+    },
+    {
+        "file_name": "379.png",
+        "file_path": "data/scores/379.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.1916880809608756,
+            "Cracks": 9.950495000245073,
+            "Filiform_Papillae": 4.646859670125335,
+            "Fungiform_Redness": 9.98268281205126
+        }
+    },
+    {
+        "file_name": "38.png",
+        "file_path": "data/scores/38.png",
+        "scores": {
+            "Coated_Tongue": 0.025668976555120477,
+            "Jagged_Shape": 0.23339519125945551,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.7447379353540264,
+            "Fungiform_Redness": 0.6192784506394354
+        }
+    },
+    {
+        "file_name": "380.png",
+        "file_path": "data/scores/380.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 3.633294729479503,
+            "Cracks": 2.0297029602489953,
+            "Filiform_Papillae": 3.2047173029337674,
+            "Fungiform_Redness": 1.4360681115174527
+        }
+    },
+    {
+        "file_name": "381.png",
+        "file_path": "data/scores/381.png",
+        "scores": {
+            "Coated_Tongue": 0.05867194641170394,
+            "Jagged_Shape": 7.0661207287883805,
+            "Cracks": 2.920792064748554,
+            "Filiform_Papillae": 6.323836566790979,
+            "Fungiform_Redness": 2.1767709050189854
+        }
+    },
+    {
+        "file_name": "382.png",
+        "file_path": "data/scores/382.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 3.0054086699093885,
+            "Cracks": 2.3267326617488484,
+            "Filiform_Papillae": 5.063622193003993,
+            "Fungiform_Redness": 1.9879839408517672
+        }
+    },
+    {
+        "file_name": "383.png",
+        "file_path": "data/scores/383.png",
+        "scores": {
+            "Coated_Tongue": 0.026891308772030977,
+            "Jagged_Shape": 2.8492791844933723,
+            "Cracks": 1.8811881094990688,
+            "Filiform_Papillae": 3.4113048699213517,
+            "Fungiform_Redness": 2.6204202708119477
+        }
+    },
+    {
+        "file_name": "384.png",
+        "file_path": "data/scores/384.png",
+        "scores": {
+            "Coated_Tongue": 0.04155929537495696,
+            "Jagged_Shape": 0.7955100126028091,
+            "Cracks": 2.821782164248603,
+            "Filiform_Papillae": 4.624553448190542,
+            "Fungiform_Redness": 1.437927377073645
+        }
+    },
+    {
+        "file_name": "385.png",
+        "file_path": "data/scores/385.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.39825269970700117,
+            "Cracks": 1.8811881094990688,
+            "Filiform_Papillae": 2.9436779019770847,
+            "Fungiform_Redness": 0.9230538384357773
+        }
+    },
+    {
+        "file_name": "386.png",
+        "file_path": "data/scores/386.png",
+        "scores": {
+            "Coated_Tongue": 0.06356127527934594,
+            "Jagged_Shape": 1.2407840464318995,
+            "Cracks": 5.148514825997451,
+            "Filiform_Papillae": 3.24667062247992,
+            "Fungiform_Redness": 5.1345763640661355
+        }
+    },
+    {
+        "file_name": "387.png",
+        "file_path": "data/scores/387.png",
+        "scores": {
+            "Coated_Tongue": 2.4348857760857134,
+            "Jagged_Shape": 0.28291242363447316,
+            "Cracks": 2.425742562248799,
+            "Filiform_Papillae": 4.2738520679647705,
+            "Fungiform_Redness": 0.35697898678892165
+        }
+    },
+    {
+        "file_name": "388.png",
+        "file_path": "data/scores/388.png",
+        "scores": {
+            "Coated_Tongue": 0.24691110781592074,
+            "Jagged_Shape": 3.3766142545931555,
+            "Cracks": 1.4356435572492892,
+            "Filiform_Papillae": 5.4332262068069745,
+            "Fungiform_Redness": 0.8329509691741505
+        }
+    },
+    {
+        "file_name": "389.png",
+        "file_path": "data/scores/389.png",
+        "scores": {
+            "Coated_Tongue": 8.3595300314509,
+            "Jagged_Shape": 2.9443595036486316,
+            "Cracks": 5.198019776247427,
+            "Filiform_Papillae": 7.0396153507419665,
+            "Fungiform_Redness": 0.4659605524672703
+        }
+    },
+    {
+        "file_name": "39.png",
+        "file_path": "data/scores/39.png",
+        "scores": {
+            "Coated_Tongue": 0.0061116610845524935,
+            "Jagged_Shape": 2.214791599304629,
+            "Cracks": 1.8316831592490934,
+            "Filiform_Papillae": 2.841309571796873,
+            "Fungiform_Redness": 1.8001981196763444
+        }
+    },
+    {
+        "file_name": "390.png",
+        "file_path": "data/scores/390.png",
+        "scores": {
+            "Coated_Tongue": 0.19679548692259033,
+            "Jagged_Shape": 2.4883000664326573,
+            "Cracks": 6.633663333496717,
+            "Filiform_Papillae": 5.360707401722972,
+            "Fungiform_Redness": 6.188064832290174
+        }
+    },
+    {
+        "file_name": "391.png",
+        "file_path": "data/scores/391.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.3550684841014673,
+            "Cracks": 3.4653465174982845,
+            "Filiform_Papillae": 4.046441465374318,
+            "Fungiform_Redness": 2.988125789655825
+        }
+    },
+    {
+        "file_name": "392.png",
+        "file_path": "data/scores/392.png",
+        "scores": {
+            "Coated_Tongue": 0.6991740280728054,
+            "Jagged_Shape": 2.0024110863964975,
+            "Cracks": 4.405940572247819,
+            "Filiform_Papillae": 6.620373648231479,
+            "Fungiform_Redness": 0.8399589701167216
+        }
+    },
+    {
+        "file_name": "393.png",
+        "file_path": "data/scores/393.png",
+        "scores": {
+            "Coated_Tongue": 0.01955731547056798,
+            "Jagged_Shape": 2.753206578820508,
+            "Cracks": 2.2277227612488972,
+            "Filiform_Papillae": 4.088654128107148,
+            "Fungiform_Redness": 0.7720242671020029
+        }
+    },
+    {
+        "file_name": "394.png",
+        "file_path": "data/scores/394.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 4.390555656160854,
+            "Cracks": 1.4356435572492892,
+            "Filiform_Papillae": 3.970443952440178,
+            "Fungiform_Redness": 1.5276011850530735
+        }
+    },
+    {
+        "file_name": "395.png",
+        "file_path": "data/scores/395.png",
+        "scores": {
+            "Coated_Tongue": 0.012223322169104987,
+            "Jagged_Shape": 1.7985315936725323,
+            "Cracks": 3.3663366169983338,
+            "Filiform_Papillae": 4.527109408665248,
+            "Fungiform_Redness": 2.5064329901746203
+        }
+    },
+    {
+        "file_name": "396.png",
+        "file_path": "data/scores/396.png",
+        "scores": {
+            "Coated_Tongue": 0.08189625853300342,
+            "Jagged_Shape": 2.655932976990709,
+            "Cracks": 5.742574228997157,
+            "Filiform_Papillae": 4.52375507236899,
+            "Fungiform_Redness": 2.0148717812028556
+        }
+    },
+    {
+        "file_name": "397.png",
+        "file_path": "data/scores/397.png",
+        "scores": {
+            "Coated_Tongue": 0.07945159409918243,
+            "Jagged_Shape": 2.5795980279121915,
+            "Cracks": 4.257425721497893,
+            "Filiform_Papillae": 6.585595597435903,
+            "Fungiform_Redness": 5.236549928801914
+        }
+    },
+    {
+        "file_name": "398.png",
+        "file_path": "data/scores/398.png",
+        "scores": {
+            "Coated_Tongue": 0.03789229872422546,
+            "Jagged_Shape": 1.286338292460618,
+            "Cracks": 7.524752437996275,
+            "Filiform_Papillae": 5.617775355610606,
+            "Fungiform_Redness": 4.760291905561886
+        }
+    },
+    {
+        "file_name": "399.png",
+        "file_path": "data/scores/399.png",
+        "scores": {
+            "Coated_Tongue": 1.4154607071823575,
+            "Jagged_Shape": 1.4977551458026006,
+            "Cracks": 4.059405920497991,
+            "Filiform_Papillae": 4.976917252624392,
+            "Fungiform_Redness": 0.6716239270676185
+        }
+    },
+    {
+        "file_name": "4.png",
+        "file_path": "data/scores/4.png",
+        "scores": {
+            "Coated_Tongue": 0.0061116610845524935,
+            "Jagged_Shape": 1.2986843461072464,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 2.1785985788057705,
+            "Fungiform_Redness": 0.7949075354859081
+        }
+    },
+    {
+        "file_name": "40.png",
+        "file_path": "data/scores/40.png",
+        "scores": {
+            "Coated_Tongue": 0.07822926188227192,
+            "Jagged_Shape": 0.9344111958481398,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 3.6139736662538855,
+            "Fungiform_Redness": 0.8604108912348368
+        }
+    },
+    {
+        "file_name": "400.png",
+        "file_path": "data/scores/400.png",
+        "scores": {
+            "Coated_Tongue": 4.06792161787814,
+            "Jagged_Shape": 0.293313027198055,
+            "Cracks": 2.5742574129987257,
+            "Filiform_Papillae": 3.4360020081226006,
+            "Fungiform_Redness": 0.26816330137388944
+        }
+    },
+    {
+        "file_name": "401.png",
+        "file_path": "data/scores/401.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.8257987994493907,
+            "Cracks": 3.51485146774826,
+            "Filiform_Papillae": 3.751374692418212,
+            "Fungiform_Redness": 3.6082623628596573
+        }
+    },
+    {
+        "file_name": "402.png",
+        "file_path": "data/scores/402.png",
+        "scores": {
+            "Coated_Tongue": 0.17112651036746984,
+            "Jagged_Shape": 2.860500888874082,
+            "Cracks": 8.118811840995981,
+            "Filiform_Papillae": 8.247610859839996,
+            "Fungiform_Redness": 3.395590987316738
+        }
+    },
+    {
+        "file_name": "403.png",
+        "file_path": "data/scores/403.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.9546205333604108,
+            "Cracks": 4.999999975247525,
+            "Filiform_Papillae": 4.854865769452087,
+            "Fungiform_Redness": 4.344531523111808
+        }
+    },
+    {
+        "file_name": "404.png",
+        "file_path": "data/scores/404.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.9191001526471945,
+            "Cracks": 4.50495047274777,
+            "Filiform_Papillae": 3.995541506833339,
+            "Fungiform_Redness": 2.8166442972039354
+        }
+    },
+    {
+        "file_name": "405.png",
+        "file_path": "data/scores/405.png",
+        "scores": {
+            "Coated_Tongue": 0.583052467466308,
+            "Jagged_Shape": 0.28869394635309154,
+            "Cracks": 4.108910870747966,
+            "Filiform_Papillae": 6.123894922768698,
+            "Fungiform_Redness": 3.050911757284165
+        }
+    },
+    {
+        "file_name": "406.png",
+        "file_path": "data/scores/406.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.3914446499450295,
+            "Cracks": 5.693069278747181,
+            "Filiform_Papillae": 3.3084338201356562,
+            "Fungiform_Redness": 6.151022541593727
+        }
+    },
+    {
+        "file_name": "407.png",
+        "file_path": "data/scores/407.png",
+        "scores": {
+            "Coated_Tongue": 0.11612156060649739,
+            "Jagged_Shape": 2.106576693849238,
+            "Cracks": 2.920792064748554,
+            "Filiform_Papillae": 3.8476653057491395,
+            "Fungiform_Redness": 2.4114674263814133
+        }
+    },
+    {
+        "file_name": "408.png",
+        "file_path": "data/scores/408.png",
+        "scores": {
+            "Coated_Tongue": 0.00977865773528399,
+            "Jagged_Shape": 3.6102031806092683,
+            "Cracks": 4.851485124497598,
+            "Filiform_Papillae": 4.356592213589023,
+            "Fungiform_Redness": 2.2901861039467155
+        }
+    },
+    {
+        "file_name": "409.png",
+        "file_path": "data/scores/409.png",
+        "scores": {
+            "Coated_Tongue": 0.07700692966536142,
+            "Jagged_Shape": 3.5485799556168534,
+            "Cracks": 6.089108880746986,
+            "Filiform_Papillae": 8.422623348007589,
+            "Fungiform_Redness": 5.778597348645668
+        }
+    },
+    {
+        "file_name": "41.png",
+        "file_path": "data/scores/41.png",
+        "scores": {
+            "Coated_Tongue": 0.01833498325365748,
+            "Jagged_Shape": 0.25977916442484766,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 2.134078486488287,
+            "Fungiform_Redness": 0.6467383727001218
+        }
+    },
+    {
+        "file_name": "410.png",
+        "file_path": "data/scores/410.png",
+        "scores": {
+            "Coated_Tongue": 2.3224312121299477,
+            "Jagged_Shape": 1.6964072339207128,
+            "Cracks": 3.3663366169983338,
+            "Filiform_Papillae": 5.8443831641900665,
+            "Fungiform_Redness": 1.1095524757646051
+        }
+    },
+    {
+        "file_name": "411.png",
+        "file_path": "data/scores/411.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 2.0100655747211946,
+            "Cracks": 4.405940572247819,
+            "Filiform_Papillae": 2.621187523111889,
+            "Fungiform_Redness": 4.591527801230585
+        }
+    },
+    {
+        "file_name": "412.png",
+        "file_path": "data/scores/412.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 3.155988930139428,
+            "Cracks": 2.623762363248701,
+            "Filiform_Papillae": 5.171247592319982,
+            "Fungiform_Redness": 2.1331496746621657
+        }
+    },
+    {
+        "file_name": "413.png",
+        "file_path": "data/scores/413.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 6.879726057629552,
+            "Cracks": 4.851485124497598,
+            "Filiform_Papillae": 9.691906786639723,
+            "Fungiform_Redness": 3.673479677753787
+        }
+    },
+    {
+        "file_name": "414.png",
+        "file_path": "data/scores/414.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.3164222160804775,
+            "Cracks": 9.99999995049505,
+            "Filiform_Papillae": 4.371465148698371,
+            "Fungiform_Redness": 9.999988283766587
+        }
+    },
+    {
+        "file_name": "415.png",
+        "file_path": "data/scores/415.png",
+        "scores": {
+            "Coated_Tongue": 0.040336963158046454,
+            "Jagged_Shape": 0.9321834685154445,
+            "Cracks": 4.7524752239976475,
+            "Filiform_Papillae": 4.942486619256778,
+            "Fungiform_Redness": 4.792328481299354
+        }
+    },
+    {
+        "file_name": "416.png",
+        "file_path": "data/scores/416.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.5064227364333981,
+            "Cracks": 8.069306890746006,
+            "Filiform_Papillae": 4.07601705293088,
+            "Fungiform_Redness": 8.581654705246661
+        }
+    },
+    {
+        "file_name": "417.png",
+        "file_path": "data/scores/417.png",
+        "scores": {
+            "Coated_Tongue": 0.04400395980877796,
+            "Jagged_Shape": 4.107811558505794,
+            "Cracks": 2.722772263748652,
+            "Filiform_Papillae": 6.95492774087964,
+            "Fungiform_Redness": 2.078801912250391
+        }
+    },
+    {
+        "file_name": "418.png",
+        "file_path": "data/scores/418.png",
+        "scores": {
+            "Coated_Tongue": 1.1905515792708259,
+            "Jagged_Shape": 0.3359522721491314,
+            "Cracks": 3.910891069748064,
+            "Filiform_Papillae": 3.6604308877383245,
+            "Fungiform_Redness": 2.162754903133843
+        }
+    },
+    {
+        "file_name": "419.png",
+        "file_path": "data/scores/419.png",
+        "scores": {
+            "Coated_Tongue": 0.03300296985658347,
+            "Jagged_Shape": 0.5665584754435747,
+            "Cracks": 4.999999975247525,
+            "Filiform_Papillae": 4.22545023772728,
+            "Fungiform_Redness": 4.7369795758957824
+        }
+    },
+    {
+        "file_name": "42.png",
+        "file_path": "data/scores/42.png",
+        "scores": {
+            "Coated_Tongue": 0.01833498325365748,
+            "Jagged_Shape": 2.897568166373806,
+            "Cracks": 1.8316831592490934,
+            "Filiform_Papillae": 3.9452305839588915,
+            "Fungiform_Redness": 1.0347527922347148
+        }
+    },
+    {
+        "file_name": "420.png",
+        "file_path": "data/scores/420.png",
+        "scores": {
+            "Coated_Tongue": 0.6209447661905333,
+            "Jagged_Shape": 0.9093552644809715,
+            "Cracks": 4.900990074747574,
+            "Filiform_Papillae": 6.453104499048451,
+            "Fungiform_Redness": 4.297048741215205
+        }
+    },
+    {
+        "file_name": "421.png",
+        "file_path": "data/scores/421.png",
+        "scores": {
+            "Coated_Tongue": 0.11978855725722888,
+            "Jagged_Shape": 1.149510596213341,
+            "Cracks": 5.346534626997354,
+            "Filiform_Papillae": 5.781550989711209,
+            "Fungiform_Redness": 4.447077169557184
+        }
+    },
+    {
+        "file_name": "422.png",
+        "file_path": "data/scores/422.png",
+        "scores": {
+            "Coated_Tongue": 1.2895604888405763,
+            "Jagged_Shape": 1.6367461720964058,
+            "Cracks": 2.8712871144985783,
+            "Filiform_Papillae": 4.278355823187253,
+            "Fungiform_Redness": 2.390300403126301
+        }
+    },
+    {
+        "file_name": "423.png",
+        "file_path": "data/scores/423.png",
+        "scores": {
+            "Coated_Tongue": 0.04278162759186746,
+            "Jagged_Shape": 1.982847665406719,
+            "Cracks": 4.405940572247819,
+            "Filiform_Papillae": 4.172122615267679,
+            "Fungiform_Redness": 4.926195601345199
+        }
+    },
+    {
+        "file_name": "424.png",
+        "file_path": "data/scores/424.png",
+        "scores": {
+            "Coated_Tongue": 0.01955731547056798,
+            "Jagged_Shape": 2.61102576800097,
+            "Cracks": 4.108910870747966,
+            "Filiform_Papillae": 4.1786167200664845,
+            "Fungiform_Redness": 3.8176442685723893
+        }
+    },
+    {
+        "file_name": "425.png",
+        "file_path": "data/scores/425.png",
+        "scores": {
+            "Coated_Tongue": 0.08556325518373492,
+            "Jagged_Shape": 0.5264086325742157,
+            "Cracks": 6.831683134496618,
+            "Filiform_Papillae": 5.896069990566099,
+            "Fungiform_Redness": 4.113267492006965
+        }
+    },
+    {
+        "file_name": "426.png",
+        "file_path": "data/scores/426.png",
+        "scores": {
+            "Coated_Tongue": 0.014667986602925984,
+            "Jagged_Shape": 2.6803098865310977,
+            "Cracks": 6.435643532496814,
+            "Filiform_Papillae": 5.975370567152644,
+            "Fungiform_Redness": 7.296902205917782
+        }
+    },
+    {
+        "file_name": "427.png",
+        "file_path": "data/scores/427.png",
+        "scores": {
+            "Coated_Tongue": 0.03422530207349396,
+            "Jagged_Shape": 0.3877881521332802,
+            "Cracks": 3.910891069748064,
+            "Filiform_Papillae": 4.76817894579365,
+            "Fungiform_Redness": 3.1410146265457914
+        }
+    },
+    {
+        "file_name": "428.png",
+        "file_path": "data/scores/428.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.4128632160743633,
+            "Cracks": 1.8811881094990688,
+            "Filiform_Papillae": 3.5177379362952332,
+            "Fungiform_Redness": 1.8592655561923002
+        }
+    },
+    {
+        "file_name": "429.png",
+        "file_path": "data/scores/429.png",
+        "scores": {
+            "Coated_Tongue": 9.99989986654479,
+            "Jagged_Shape": 0.2871290411183449,
+            "Cracks": 4.900990074747574,
+            "Filiform_Papillae": 4.987834224349374,
+            "Fungiform_Redness": 1.0935341878958713
+        }
+    },
+    {
+        "file_name": "43.png",
+        "file_path": "data/scores/43.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2796908126913217,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 3.271736492303755,
+            "Fungiform_Redness": 1.2755991919753173
+        }
+    },
+    {
+        "file_name": "430.png",
+        "file_path": "data/scores/430.png",
+        "scores": {
+            "Coated_Tongue": 0.48159889346273643,
+            "Jagged_Shape": 2.6226459625370007,
+            "Cracks": 3.118811865748456,
+            "Filiform_Papillae": 5.607971055431392,
+            "Fungiform_Redness": 1.953229976993711
+        }
+    },
+    {
+        "file_name": "431.png",
+        "file_path": "data/scores/431.png",
+        "scores": {
+            "Coated_Tongue": 0.015890318819836484,
+            "Jagged_Shape": 1.9818766097122633,
+            "Cracks": 4.009900970248015,
+            "Filiform_Papillae": 5.123239113627576,
+            "Fungiform_Redness": 3.0949620489231826
+        }
+    },
+    {
+        "file_name": "432.png",
+        "file_path": "data/scores/432.png",
+        "scores": {
+            "Coated_Tongue": 0.013445654386015488,
+            "Jagged_Shape": 0.49495975435148,
+            "Cracks": 1.8316831592490934,
+            "Filiform_Papillae": 4.138363193156877,
+            "Fungiform_Redness": 1.199369304171433
+        }
+    },
+    {
+        "file_name": "433.png",
+        "file_path": "data/scores/433.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.1912541503586778,
+            "Cracks": 1.98019800999902,
+            "Filiform_Papillae": 3.4312750242288086,
+            "Fungiform_Redness": 1.1613258704831906
+        }
+    },
+    {
+        "file_name": "434.png",
+        "file_path": "data/scores/434.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2586148581338672,
+            "Cracks": 1.98019800999902,
+            "Filiform_Papillae": 1.8513511299815275,
+            "Fungiform_Redness": 2.1590363720214585
+        }
+    },
+    {
+        "file_name": "435.png",
+        "file_path": "data/scores/435.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.8782845796190296,
+            "Cracks": 1.485148507499265,
+            "Filiform_Papillae": 4.326702380606057,
+            "Fungiform_Redness": 1.672623898436073
+        }
+    },
+    {
+        "file_name": "436.png",
+        "file_path": "data/scores/436.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.4867244546094993,
+            "Cracks": 7.326732636996374,
+            "Filiform_Papillae": 4.9875059922861915,
+            "Fungiform_Redness": 5.014439205050634
+        }
+    },
+    {
+        "file_name": "437.png",
+        "file_path": "data/scores/437.png",
+        "scores": {
+            "Coated_Tongue": 0.49259988341493094,
+            "Jagged_Shape": 2.513037738818821,
+            "Cracks": 2.277227711498873,
+            "Filiform_Papillae": 4.390896501046057,
+            "Fungiform_Redness": 1.5747979260948783
+        }
+    },
+    {
+        "file_name": "438.png",
+        "file_path": "data/scores/438.png",
+        "scores": {
+            "Coated_Tongue": 0.02200197990438898,
+            "Jagged_Shape": 1.577246896108841,
+            "Cracks": 3.3168316667483584,
+            "Filiform_Papillae": 4.403832273552065,
+            "Fungiform_Redness": 3.3614091051682795
+        }
+    },
+    {
+        "file_name": "439.png",
+        "file_path": "data/scores/439.png",
+        "scores": {
+            "Coated_Tongue": 0.05256028532715145,
+            "Jagged_Shape": 0.3353808494626458,
+            "Cracks": 2.5742574129987257,
+            "Filiform_Papillae": 5.310825715697895,
+            "Fungiform_Redness": 1.2223955929827377
+        }
+    },
+    {
+        "file_name": "44.png",
+        "file_path": "data/scores/44.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 3.0595089473491806,
+            "Cracks": 1.485148507499265,
+            "Filiform_Papillae": 2.7365101217439305,
+            "Fungiform_Redness": 1.274455028556122
+        }
+    },
+    {
+        "file_name": "440.png",
+        "file_path": "data/scores/440.png",
+        "scores": {
+            "Coated_Tongue": 0.012223322169104987,
+            "Jagged_Shape": 2.1357200897131485,
+            "Cracks": 3.5643564179982357,
+            "Filiform_Papillae": 6.355212795124407,
+            "Fungiform_Redness": 3.013011344023322
+        }
+    },
+    {
+        "file_name": "441.png",
+        "file_path": "data/scores/441.png",
+        "scores": {
+            "Coated_Tongue": 0.03789229872422546,
+            "Jagged_Shape": 1.6127372996461098,
+            "Cracks": 2.8712871144985783,
+            "Filiform_Papillae": 3.7495898902697107,
+            "Fungiform_Redness": 4.214096893323548
+        }
+    },
+    {
+        "file_name": "442.png",
+        "file_path": "data/scores/442.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.33308856204328946,
+            "Cracks": 1.9306930597490444,
+            "Filiform_Papillae": 2.461394240644367,
+            "Fungiform_Redness": 1.9709645099912376
+        }
+    },
+    {
+        "file_name": "443.png",
+        "file_path": "data/scores/443.png",
+        "scores": {
+            "Coated_Tongue": 0.6050544473706969,
+            "Jagged_Shape": 2.2498519435916107,
+            "Cracks": 2.5742574129987257,
+            "Filiform_Papillae": 4.361986457132049,
+            "Fungiform_Redness": 1.6034020115747596
+        }
+    },
+    {
+        "file_name": "444.png",
+        "file_path": "data/scores/444.png",
+        "scores": {
+            "Coated_Tongue": 0.2713577521541307,
+            "Jagged_Shape": 2.058390364626547,
+            "Cracks": 3.8613861194980887,
+            "Filiform_Papillae": 7.29766456959489,
+            "Fungiform_Redness": 3.638582693468331
+        }
+    },
+    {
+        "file_name": "445.png",
+        "file_path": "data/scores/445.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 4.088689852130208,
+            "Cracks": 4.3069306717478675,
+            "Filiform_Papillae": 5.180839332912055,
+            "Fungiform_Redness": 4.263868002058542
+        }
+    },
+    {
+        "file_name": "446.png",
+        "file_path": "data/scores/446.png",
+        "scores": {
+            "Coated_Tongue": 0.21268580574242676,
+            "Jagged_Shape": 3.8350612946812035,
+            "Cracks": 3.0198019652485053,
+            "Filiform_Papillae": 5.96478812305135,
+            "Fungiform_Redness": 0.5727968117346278
+        }
+    },
+    {
+        "file_name": "447.png",
+        "file_path": "data/scores/447.png",
+        "scores": {
+            "Coated_Tongue": 0.965642451359294,
+            "Jagged_Shape": 3.0094898995328307,
+            "Cracks": 4.207920771247917,
+            "Filiform_Papillae": 5.773957329289445,
+            "Fungiform_Redness": 2.6071193710638028
+        }
+    },
+    {
+        "file_name": "448.png",
+        "file_path": "data/scores/448.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.831890786610562,
+            "Cracks": 2.4752475124987745,
+            "Filiform_Papillae": 3.501896474823512,
+            "Fungiform_Redness": 3.3282283660116168
+        }
+    },
+    {
+        "file_name": "449.png",
+        "file_path": "data/scores/449.png",
+        "scores": {
+            "Coated_Tongue": 0.01955731547056798,
+            "Jagged_Shape": 5.881617885494842,
+            "Cracks": 4.851485124497598,
+            "Filiform_Papillae": 7.891755025524257,
+            "Fungiform_Redness": 2.6403001102204655
+        }
+    },
+    {
+        "file_name": "45.png",
+        "file_path": "data/scores/45.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 0.2563571776075222,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.98868460365889,
+            "Fungiform_Redness": 0.7688778176992159
+        }
+    },
+    {
+        "file_name": "450.png",
+        "file_path": "data/scores/450.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 5.739793017041199,
+            "Cracks": 3.1683168159984314,
+            "Filiform_Papillae": 5.574628024709574,
+            "Fungiform_Redness": 3.2744526853094396
+        }
+    },
+    {
+        "file_name": "451.png",
+        "file_path": "data/scores/451.png",
+        "scores": {
+            "Coated_Tongue": 4.6607527430797315,
+            "Jagged_Shape": 5.644563862615159,
+            "Cracks": 3.6138613682482115,
+            "Filiform_Papillae": 9.999999858946339,
+            "Fungiform_Redness": 1.924768911941229
+        }
+    },
+    {
+        "file_name": "452.png",
+        "file_path": "data/scores/452.png",
+        "scores": {
+            "Coated_Tongue": 0.6307234239258174,
+            "Jagged_Shape": 5.4439189590505075,
+            "Cracks": 1.2871287064993628,
+            "Filiform_Papillae": 7.187505646319935,
+            "Fungiform_Redness": 0.2840385688152237
+        }
+    },
+    {
+        "file_name": "453.png",
+        "file_path": "data/scores/453.png",
+        "scores": {
+            "Coated_Tongue": 0.13567887607706536,
+            "Jagged_Shape": 4.233162539577914,
+            "Cracks": 3.217821766248407,
+            "Filiform_Papillae": 6.666747838830208,
+            "Fungiform_Redness": 1.1131279864495904
+        }
+    },
+    {
+        "file_name": "454.png",
+        "file_path": "data/scores/454.png",
+        "scores": {
+            "Coated_Tongue": 0.5439378365251719,
+            "Jagged_Shape": 7.4321870907433745,
+            "Cracks": 2.52475246274875,
+            "Filiform_Papillae": 8.22024955550868,
+            "Fungiform_Redness": 0.8812918736351504
+        }
+    },
+    {
+        "file_name": "455.png",
+        "file_path": "data/scores/455.png",
+        "scores": {
+            "Coated_Tongue": 0.04522629202568845,
+            "Jagged_Shape": 1.6640483576090093,
+            "Cracks": 4.999999975247525,
+            "Filiform_Papillae": 3.9381878270558035,
+            "Fungiform_Redness": 5.525165151293918
+        }
+    },
+    {
+        "file_name": "456.png",
+        "file_path": "data/scores/456.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 3.3418324134657595,
+            "Cracks": 1.2376237562493873,
+            "Filiform_Papillae": 4.256207832510563,
+            "Fungiform_Redness": 0.9466522089566797
+        }
+    },
+    {
+        "file_name": "457.png",
+        "file_path": "data/scores/457.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.8091510521013378,
+            "Cracks": 1.7326732587491422,
+            "Filiform_Papillae": 3.193731087678617,
+            "Fungiform_Redness": 1.9741109593940245
+        }
+    },
+    {
+        "file_name": "458.png",
+        "file_path": "data/scores/458.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 3.3608952071536007,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 5.818790544270188,
+            "Fungiform_Redness": 0.7615837759018461
+        }
+    },
+    {
+        "file_name": "459.png",
+        "file_path": "data/scores/459.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 5.776701369327001,
+            "Cracks": 3.96039601999804,
+            "Filiform_Papillae": 7.954099789910124,
+            "Fungiform_Redness": 4.236122039143057
+        }
+    },
+    {
+        "file_name": "46.png",
+        "file_path": "data/scores/46.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.7162501583005849,
+            "Cracks": 1.4356435572492892,
+            "Filiform_Papillae": 2.8360895113513775,
+            "Fungiform_Redness": 1.2185340414429537
+        }
+    },
+    {
+        "file_name": "460.png",
+        "file_path": "data/scores/460.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 4.186571190711069,
+            "Cracks": 1.5346534577492403,
+            "Filiform_Papillae": 3.9534890019873665,
+            "Fungiform_Redness": 1.5433334320670085
+        }
+    },
+    {
+        "file_name": "461.png",
+        "file_path": "data/scores/461.png",
+        "scores": {
+            "Coated_Tongue": 0.026891308772030977,
+            "Jagged_Shape": 2.6137541243771985,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 4.959206819928833,
+            "Fungiform_Redness": 0.7921901473653192
+        }
+    },
+    {
+        "file_name": "462.png",
+        "file_path": "data/scores/462.png",
+        "scores": {
+            "Coated_Tongue": 6.208225329688423,
+            "Jagged_Shape": 3.1224630484176736,
+            "Cracks": 4.009900970248015,
+            "Filiform_Papillae": 8.380332654676808,
+            "Fungiform_Redness": 0.5566355034384949
+        }
+    },
+    {
+        "file_name": "463.png",
+        "file_path": "data/scores/463.png",
+        "scores": {
+            "Coated_Tongue": 2.087743426483132,
+            "Jagged_Shape": 1.8238479327176471,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 5.533332701391686,
+            "Fungiform_Redness": 0.041761964800627056
+        }
+    },
+    {
+        "file_name": "464.png",
+        "file_path": "data/scores/464.png",
+        "scores": {
+            "Coated_Tongue": 3.2917406601399737,
+            "Jagged_Shape": 6.125596762342643,
+            "Cracks": 3.910891069748064,
+            "Filiform_Papillae": 7.516467534237793,
+            "Fungiform_Redness": 0.8552621558484581
+        }
+    },
+    {
+        "file_name": "465.png",
+        "file_path": "data/scores/465.png",
+        "scores": {
+            "Coated_Tongue": 0.2554674333342942,
+            "Jagged_Shape": 9.11667550007623,
+            "Cracks": 2.5742574129987257,
+            "Filiform_Papillae": 7.853793007400743,
+            "Fungiform_Redness": 0.4124709126198919
+        }
+    },
+    {
+        "file_name": "466.png",
+        "file_path": "data/scores/466.png",
+        "scores": {
+            "Coated_Tongue": 0.24079944673136822,
+            "Jagged_Shape": 3.4328115442836564,
+            "Cracks": 1.4356435572492892,
+            "Filiform_Papillae": 5.5131367819072725,
+            "Fungiform_Redness": 0.8183628855794111
+        }
+    },
+    {
+        "file_name": "467.png",
+        "file_path": "data/scores/467.png",
+        "scores": {
+            "Coated_Tongue": 1.1086553207378225,
+            "Jagged_Shape": 1.7843682767924935,
+            "Cracks": 2.178217810998922,
+            "Filiform_Papillae": 7.117104986353045,
+            "Fungiform_Redness": 1.2608680879531784
+        }
+    },
+    {
+        "file_name": "468.png",
+        "file_path": "data/scores/468.png",
+        "scores": {
+            "Coated_Tongue": 0.09411958070210841,
+            "Jagged_Shape": 1.5367356988779655,
+            "Cracks": 3.5643564179982357,
+            "Filiform_Papillae": 5.646070588686979,
+            "Fungiform_Redness": 5.268729524966781
+        }
+    },
+    {
+        "file_name": "469.png",
+        "file_path": "data/scores/469.png",
+        "scores": {
+            "Coated_Tongue": 0.8556325518373491,
+            "Jagged_Shape": 4.898495829417583,
+            "Cracks": 1.7821782089991178,
+            "Filiform_Papillae": 8.01674342004298,
+            "Fungiform_Redness": 0.2585809327381291
+        }
+    },
+    {
+        "file_name": "47.png",
+        "file_path": "data/scores/47.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.2230938184785451,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.9189579600781317,
+            "Fungiform_Redness": 0.7755997777869882
+        }
+    },
+    {
+        "file_name": "470.png",
+        "file_path": "data/scores/470.png",
+        "scores": {
+            "Coated_Tongue": 0.9485298003225471,
+            "Jagged_Shape": 5.100231830543529,
+            "Cracks": 5.792079179247133,
+            "Filiform_Papillae": 9.847052099688064,
+            "Fungiform_Redness": 3.7162427855462097
+        }
+    },
+    {
+        "file_name": "471.png",
+        "file_path": "data/scores/471.png",
+        "scores": {
+            "Coated_Tongue": 1.999735506865576,
+            "Jagged_Shape": 0.3418717454880274,
+            "Cracks": 1.9306930597490444,
+            "Filiform_Papillae": 5.195168536793997,
+            "Fungiform_Redness": 0.371138009101463
+        }
+    },
+    {
+        "file_name": "472.png",
+        "file_path": "data/scores/472.png",
+        "scores": {
+            "Coated_Tongue": 1.9398412282369615,
+            "Jagged_Shape": 2.425383365656773,
+            "Cracks": 2.277227711498873,
+            "Filiform_Papillae": 5.0416125984597375,
+            "Fungiform_Redness": 0.21381553896211453
+        }
+    },
+    {
+        "file_name": "473.png",
+        "file_path": "data/scores/473.png",
+        "scores": {
+            "Coated_Tongue": 0.49137755119802057,
+            "Jagged_Shape": 2.693516101459879,
+            "Cracks": 2.8712871144985783,
+            "Filiform_Papillae": 6.01142896791257,
+            "Fungiform_Redness": 0.6444500458617313
+        }
+    },
+    {
+        "file_name": "474.png",
+        "file_path": "data/scores/474.png",
+        "scores": {
+            "Coated_Tongue": 2.2454242824645863,
+            "Jagged_Shape": 3.641394647588814,
+            "Cracks": 3.8613861194980887,
+            "Filiform_Papillae": 7.763282097006449,
+            "Fungiform_Redness": 2.365557869186204
+        }
+    },
+    {
+        "file_name": "475.png",
+        "file_path": "data/scores/475.png",
+        "scores": {
+            "Coated_Tongue": 8.469539930972847,
+            "Jagged_Shape": 2.5113596040717296,
+            "Cracks": 2.722772263748652,
+            "Filiform_Papillae": 4.834175996524808,
+            "Fungiform_Redness": 1.026743648300348
+        }
+    },
+    {
+        "file_name": "476.png",
+        "file_path": "data/scores/476.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.358689853791037,
+            "Cracks": 3.663366318498187,
+            "Filiform_Papillae": 3.8422311339896593,
+            "Fungiform_Redness": 2.9935605658970026
+        }
+    },
+    {
+        "file_name": "477.png",
+        "file_path": "data/scores/477.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.4796980749679758,
+            "Cracks": 4.405940572247819,
+            "Filiform_Papillae": 3.881698160772342,
+            "Fungiform_Redness": 4.514153750007505
+        }
+    },
+    {
+        "file_name": "48.png",
+        "file_path": "data/scores/48.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 0.2891662854228767,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.3333935443025995,
+            "Fungiform_Redness": 0.8478250936236891
+        }
+    },
+    {
+        "file_name": "49.png",
+        "file_path": "data/scores/49.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 4.64236382044151,
+            "Cracks": 1.5346534577492403,
+            "Filiform_Papillae": 3.66017008654038,
+            "Fungiform_Redness": 1.383150553379672
+        }
+    },
+    {
+        "file_name": "5.png",
+        "file_path": "data/scores/5.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 3.2151669187391736,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 2.2810581427338477,
+            "Fungiform_Redness": 1.4373552953640476
+        }
+    },
+    {
+        "file_name": "50.png",
+        "file_path": "data/scores/50.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 1.9508757933841978,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 1.7568386472835986,
+            "Fungiform_Redness": 0.6996559308379026
+        }
+    },
+    {
+        "file_name": "51.png",
+        "file_path": "data/scores/51.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 1.1283723819797467,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 2.490807319366229,
+            "Fungiform_Redness": 0.732407608712367
+        }
+    },
+    {
+        "file_name": "52.png",
+        "file_path": "data/scores/52.png",
+        "scores": {
+            "Coated_Tongue": 0.00855632551837349,
+            "Jagged_Shape": 3.3521397726421065,
+            "Cracks": 1.8316831592490934,
+            "Filiform_Papillae": 3.7434447449627455,
+            "Fungiform_Redness": 1.2359825335856816
+        }
+    },
+    {
+        "file_name": "53.png",
+        "file_path": "data/scores/53.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.3923267947809514,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 2.666907868590745,
+            "Fungiform_Redness": 0.8798616693611563
+        }
+    },
+    {
+        "file_name": "54.png",
+        "file_path": "data/scores/54.png",
+        "scores": {
+            "Coated_Tongue": 0.00977865773528399,
+            "Jagged_Shape": 0.3739320293233244,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 2.6055758541908958,
+            "Fungiform_Redness": 0.8614120342266328
+        }
+    },
+    {
+        "file_name": "55.png",
+        "file_path": "data/scores/55.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 4.94098864456228,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 3.8913177699402097,
+            "Fungiform_Redness": 1.2384138808514713
+        }
+    },
+    {
+        "file_name": "56.png",
+        "file_path": "data/scores/56.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 0.5105787573150151,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 2.567948874547138,
+            "Fungiform_Redness": 0.7923331677927187
+        }
+    },
+    {
+        "file_name": "57.png",
+        "file_path": "data/scores/57.png",
+        "scores": {
+            "Coated_Tongue": 0.03422530207349396,
+            "Jagged_Shape": 0.3114610866375743,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 2.2270749835913954,
+            "Fungiform_Redness": 0.7630139801758401
+        }
+    },
+    {
+        "file_name": "58.png",
+        "file_path": "data/scores/58.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.26719056733632907,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.2310894908244956,
+            "Fungiform_Redness": 0.6943641750241245
+        }
+    },
+    {
+        "file_name": "59.png",
+        "file_path": "data/scores/59.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 1.5829164244683311,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 2.3576120217406094,
+            "Fungiform_Redness": 0.8847243638927361
+        }
+    },
+    {
+        "file_name": "6.png",
+        "file_path": "data/scores/6.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 2.53142189754675,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 2.7000201698590747,
+            "Fungiform_Redness": 0.9812631523873363
+        }
+    },
+    {
+        "file_name": "60.png",
+        "file_path": "data/scores/60.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 0.283854784767005,
+            "Cracks": 0.7920792039996079,
+            "Filiform_Papillae": 1.8899798147797071,
+            "Fungiform_Redness": 0.7479968352989024
+        }
+    },
+    {
+        "file_name": "61.png",
+        "file_path": "data/scores/61.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 1.9014378628677933,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 2.8216259053693444,
+            "Fungiform_Redness": 0.8695641985883988
+        }
+    },
+    {
+        "file_name": "62.png",
+        "file_path": "data/scores/62.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 1.0106107921297203,
+            "Cracks": 1.386138606999314,
+            "Filiform_Papillae": 2.3011964388181254,
+            "Fungiform_Redness": 0.8977392227860823
+        }
+    },
+    {
+        "file_name": "63.png",
+        "file_path": "data/scores/63.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2674185094626642,
+            "Cracks": 0.8910891044995589,
+            "Filiform_Papillae": 1.9031089950006943,
+            "Fungiform_Redness": 0.7312634452931717
+        }
+    },
+    {
+        "file_name": "64.png",
+        "file_path": "data/scores/64.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.2553681080344473,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 2.5587635856183955,
+            "Fungiform_Redness": 0.9250561244193691
+        }
+    },
+    {
+        "file_name": "65.png",
+        "file_path": "data/scores/65.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.5945729002439449,
+            "Cracks": 1.2871287064993628,
+            "Filiform_Papillae": 2.0992432762480946,
+            "Fungiform_Redness": 0.9290606963865524
+        }
+    },
+    {
+        "file_name": "66.png",
+        "file_path": "data/scores/66.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.1238995454238403,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 2.123226365521588,
+            "Fungiform_Redness": 0.7206799336656156
+        }
+    },
+    {
+        "file_name": "67.png",
+        "file_path": "data/scores/67.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.23957370932299685,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.052875054105543,
+            "Fungiform_Redness": 0.7025163393858908
+        }
+    },
+    {
+        "file_name": "68.png",
+        "file_path": "data/scores/68.png",
+        "scores": {
+            "Coated_Tongue": 0.01955731547056798,
+            "Jagged_Shape": 1.6055986820636468,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 2.342469557085895,
+            "Fungiform_Redness": 0.6132715926886603
+        }
+    },
+    {
+        "file_name": "69.png",
+        "file_path": "data/scores/69.png",
+        "scores": {
+            "Coated_Tongue": 0.00977865773528399,
+            "Jagged_Shape": 0.26990603059415436,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.389400165038496,
+            "Fungiform_Redness": 0.6856399289527606
+        }
+    },
+    {
+        "file_name": "7.png",
+        "file_path": "data/scores/7.png",
+        "scores": {
+            "Coated_Tongue": 0.03300296985658347,
+            "Jagged_Shape": 1.9614162715891628,
+            "Cracks": 2.2277227612488972,
+            "Filiform_Papillae": 3.63272231359936,
+            "Fungiform_Redness": 1.99928255461632
+        }
+    },
+    {
+        "file_name": "70.png",
+        "file_path": "data/scores/70.png",
+        "scores": {
+            "Coated_Tongue": 0.00855632551837349,
+            "Jagged_Shape": 0.23886169263814036,
+            "Cracks": 1.2376237562493873,
+            "Filiform_Papillae": 2.212443533180238,
+            "Fungiform_Redness": 0.8995984883422745
+        }
+    },
+    {
+        "file_name": "71.png",
+        "file_path": "data/scores/71.png",
+        "scores": {
+            "Coated_Tongue": 0.01833498325365748,
+            "Jagged_Shape": 1.3179951718894423,
+            "Cracks": 1.9306930597490444,
+            "Filiform_Papillae": 4.450351730129716,
+            "Fungiform_Redness": 1.0975387598630546
+        }
+    },
+    {
+        "file_name": "72.png",
+        "file_path": "data/scores/72.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 1.4311496713673213,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.7021294859852696,
+            "Fungiform_Redness": 1.0098672378672178
+        }
+    },
+    {
+        "file_name": "73.png",
+        "file_path": "data/scores/73.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2576034327368926,
+            "Cracks": 1.3366336567493384,
+            "Filiform_Papillae": 2.000032633044658,
+            "Fungiform_Redness": 0.7434201816221214
+        }
+    },
+    {
+        "file_name": "74.png",
+        "file_path": "data/scores/74.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.22005133232627952,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 2.2963289384192493,
+            "Fungiform_Redness": 1.0165891979549901
+        }
+    },
+    {
+        "file_name": "75.png",
+        "file_path": "data/scores/75.png",
+        "scores": {
+            "Coated_Tongue": 0.004889328867641995,
+            "Jagged_Shape": 0.6224553027374626,
+            "Cracks": 0.9405940547495344,
+            "Filiform_Papillae": 2.4903875577652506,
+            "Fungiform_Redness": 0.6730541313416127
+        }
+    },
+    {
+        "file_name": "76.png",
+        "file_path": "data/scores/76.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.3619004240713962,
+            "Cracks": 0.693069303499657,
+            "Filiform_Papillae": 1.3447132403795394,
+            "Fungiform_Redness": 0.4179056888610694
+        }
+    },
+    {
+        "file_name": "77.png",
+        "file_path": "data/scores/77.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.34839905514100133,
+            "Cracks": 1.2376237562493873,
+            "Filiform_Papillae": 2.185814293944742,
+            "Fungiform_Redness": 0.8203651715630027
+        }
+    },
+    {
+        "file_name": "78.png",
+        "file_path": "data/scores/78.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2793649365964267,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.8620835431665574,
+            "Fungiform_Redness": 0.5318929694983974
+        }
+    },
+    {
+        "file_name": "79.png",
+        "file_path": "data/scores/79.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.171915803866995,
+            "Cracks": 1.5346534577492403,
+            "Filiform_Papillae": 2.38287806632563,
+            "Fungiform_Redness": 0.9191922868959934
+        }
+    },
+    {
+        "file_name": "8.png",
+        "file_path": "data/scores/8.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.41088089853240684,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.3691834604324153,
+            "Fungiform_Redness": 0.9964233176916736
+        }
+    },
+    {
+        "file_name": "80.png",
+        "file_path": "data/scores/80.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 4.0604843838828,
+            "Cracks": 1.2376237562493873,
+            "Filiform_Papillae": 3.1425767261866815,
+            "Fungiform_Redness": 1.138299581671886
+        }
+    },
+    {
+        "file_name": "81.png",
+        "file_path": "data/scores/81.png",
+        "scores": {
+            "Coated_Tongue": 0.13445654386015488,
+            "Jagged_Shape": 3.685373508972668,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 3.0801307858652716,
+            "Fungiform_Redness": 0.8998845291970734
+        }
+    },
+    {
+        "file_name": "82.png",
+        "file_path": "data/scores/82.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.2798695767406494,
+            "Cracks": 0.6435643532496814,
+            "Filiform_Papillae": 1.227966283888902,
+            "Fungiform_Redness": 0.48855777999637673
+        }
+    },
+    {
+        "file_name": "83.png",
+        "file_path": "data/scores/83.png",
+        "scores": {
+            "Coated_Tongue": 0.05500494976097245,
+            "Jagged_Shape": 1.52030702536643,
+            "Cracks": 1.5841584079992157,
+            "Filiform_Papillae": 3.2820066365053773,
+            "Fungiform_Redness": 1.1664746058695694
+        }
+    },
+    {
+        "file_name": "84.png",
+        "file_path": "data/scores/84.png",
+        "scores": {
+            "Coated_Tongue": 0.003666996650731496,
+            "Jagged_Shape": 1.3868001223236326,
+            "Cracks": 1.485148507499265,
+            "Filiform_Papillae": 3.504616060316608,
+            "Fungiform_Redness": 0.8066352105326595
+        }
+    },
+    {
+        "file_name": "85.png",
+        "file_path": "data/scores/85.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 3.439755699905559,
+            "Cracks": 1.5346534577492403,
+            "Filiform_Papillae": 2.9834906243417896,
+            "Fungiform_Redness": 1.2497124946160247
+        }
+    },
+    {
+        "file_name": "86.png",
+        "file_path": "data/scores/86.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 3.034121714336356,
+            "Cracks": 1.1881188059994119,
+            "Filiform_Papillae": 2.1387907717856134,
+            "Fungiform_Redness": 0.7143870348600414
+        }
+    },
+    {
+        "file_name": "87.png",
+        "file_path": "data/scores/87.png",
+        "scores": {
+            "Coated_Tongue": 0.012223322169104987,
+            "Jagged_Shape": 2.1768223749769304,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.9686077052850743,
+            "Fungiform_Redness": 0.8975962023586828
+        }
+    },
+    {
+        "file_name": "88.png",
+        "file_path": "data/scores/88.png",
+        "scores": {
+            "Coated_Tongue": 0.012223322169104987,
+            "Jagged_Shape": 0.5405551924647102,
+            "Cracks": 1.1386138557494365,
+            "Filiform_Papillae": 1.9256241192824177,
+            "Fungiform_Redness": 0.7119556875942517
+        }
+    },
+    {
+        "file_name": "89.png",
+        "file_path": "data/scores/89.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 1.1125732436125053,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.8144554988299406,
+            "Fungiform_Redness": 1.022882096760564
+        }
+    },
+    {
+        "file_name": "9.png",
+        "file_path": "data/scores/9.png",
+        "scores": {
+            "Coated_Tongue": 0.01955731547056798,
+            "Jagged_Shape": 4.694458632901019,
+            "Cracks": 1.8811881094990688,
+            "Filiform_Papillae": 3.025858881837193,
+            "Fungiform_Redness": 1.3948782284264236
+        }
+    },
+    {
+        "file_name": "90.png",
+        "file_path": "data/scores/90.png",
+        "scores": {
+            "Coated_Tongue": 0.013445654386015488,
+            "Jagged_Shape": 0.2654835218001693,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.343700742788713,
+            "Fungiform_Redness": 0.7517153664112869
+        }
+    },
+    {
+        "file_name": "91.png",
+        "file_path": "data/scores/91.png",
+        "scores": {
+            "Coated_Tongue": 0.06356127527934594,
+            "Jagged_Shape": 0.2510823732602608,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 2.574691050088036,
+            "Fungiform_Redness": 0.8368125207139345
+        }
+    },
+    {
+        "file_name": "92.png",
+        "file_path": "data/scores/92.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 1.8413246034745765,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.3179468761382442,
+            "Fungiform_Redness": 0.9997127875218599
+        }
+    },
+    {
+        "file_name": "93.png",
+        "file_path": "data/scores/93.png",
+        "scores": {
+            "Coated_Tongue": 0.01100098995219449,
+            "Jagged_Shape": 2.4003283910972817,
+            "Cracks": 1.5841584079992157,
+            "Filiform_Papillae": 2.9359070539516825,
+            "Fungiform_Redness": 1.086097125671102
+        }
+    },
+    {
+        "file_name": "94.png",
+        "file_path": "data/scores/94.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 0.45261301234436735,
+            "Cracks": 1.089108905499461,
+            "Filiform_Papillae": 2.0881512492448207,
+            "Fungiform_Redness": 0.8908742422709105
+        }
+    },
+    {
+        "file_name": "95.png",
+        "file_path": "data/scores/95.png",
+        "scores": {
+            "Coated_Tongue": 0.007333993301462992,
+            "Jagged_Shape": 0.30837857019718956,
+            "Cracks": 1.2871287064993628,
+            "Filiform_Papillae": 2.9459004257770744,
+            "Fungiform_Redness": 0.5753711794278172
+        }
+    },
+    {
+        "file_name": "96.png",
+        "file_path": "data/scores/96.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 1.0953340220927732,
+            "Cracks": 1.0396039552494853,
+            "Filiform_Papillae": 2.4666326901156603,
+            "Fungiform_Redness": 0.8854394660297332
+        }
+    },
+    {
+        "file_name": "97.png",
+        "file_path": "data/scores/97.png",
+        "scores": {
+            "Coated_Tongue": 0.0012223322169104987,
+            "Jagged_Shape": 0.565447234419028,
+            "Cracks": 0.8415841542495834,
+            "Filiform_Papillae": 1.8943028837145526,
+            "Fungiform_Redness": 0.621566777477826
+        }
+    },
+    {
+        "file_name": "98.png",
+        "file_path": "data/scores/98.png",
+        "scores": {
+            "Coated_Tongue": 0.0024446644338209974,
+            "Jagged_Shape": 0.29752121868224457,
+            "Cracks": 0.99009900499951,
+            "Filiform_Papillae": 2.550186672836415,
+            "Fungiform_Redness": 0.8456797872126978
+        }
+    },
+    {
+        "file_name": "99.png",
+        "file_path": "data/scores/99.png",
+        "scores": {
+            "Coated_Tongue": 0.0,
+            "Jagged_Shape": 1.3243467136909741,
+            "Cracks": 0.7425742537496325,
+            "Filiform_Papillae": 1.8867130052120864,
+            "Fungiform_Redness": 0.6491697199659117
+        }
+    }
+]
