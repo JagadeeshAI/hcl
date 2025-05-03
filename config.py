@@ -1,7 +1,7 @@
 class Seg:
     images = "data/data_seg/dataset"
     masks = "data/data_seg/groundtruth/mask"
-    batch = 4
+    batch = 1
     lr = 1e-4
     epochs = 2000
     model_dir = "./results/checkpoints"

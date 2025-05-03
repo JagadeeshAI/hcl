@@ -42,9 +42,7 @@ Thumbs.db
 *.pkl
 *.joblib
 *.ckpt
-*.pt
 
 
 # TensorBoard and experiment tracking
-runs/
 events.out.tfevents.*

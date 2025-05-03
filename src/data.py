@@ -1,87 +1,127 @@
 import os
 import cv2
 import glob
+import json
 import numpy as np
 import torch
 from torch.utils.data import Dataset, DataLoader
 from sklearn.model_selection import train_test_split
-from config import Seg  # Make sure Seg has .images, .masks, .batch
+from torchvision import transforms
+from PIL import Image
+from config import Seg  
 
-# Get image or mask files
+# --- Utility to Get Files ---
 def get_files(path_pattern, extensions=None):
     if extensions is None:
-        extensions = ['*.bmp', '*.Bmp', '*.jpg', '*.JPG', '*.png', '*.PNG']
+        extensions = ['*.bmp', '*.jpg', '*.png']
     files = []
     for ext in extensions:
         files.extend(glob.glob(os.path.join(path_pattern, ext)))
     return sorted(files)
 
-# Segmentation Dataset class
+# --- Segmentation Dataset ---
 class SegmentationDataset(Dataset):
-    def __init__(self, image_paths, mask_paths, normalize=True):
+    def __init__(self, image_paths, mask_paths, normalize=True, resize=(256, 320)):
         assert len(image_paths) == len(mask_paths), "Image and mask count mismatch"
         self.image_paths = image_paths
         self.mask_paths = mask_paths
         self.normalize = normalize
-        self.target_height = 256
-        self.target_width = 320
+        self.resize = resize
 
     def __len__(self):
         return len(self.image_paths)
 
     def __getitem__(self, idx):
-        image = cv2.imread(self.image_paths[idx])[:, :, ::-1].astype(np.float32)  # BGR to RGB
+        image = cv2.imread(self.image_paths[idx])[:, :, ::-1].astype(np.float32)
         mask = cv2.imread(self.mask_paths[idx], cv2.IMREAD_GRAYSCALE).astype(np.float32)
 
         if self.normalize:
             image /= 255.0
-            mask /= 255.0  # normalize mask (depends on model setup)
+            mask /= 255.0
 
-        image = cv2.resize(image, (self.target_width, self.target_height))
-        mask = cv2.resize(mask, (self.target_width, self.target_height), interpolation=cv2.INTER_NEAREST)
+        if self.resize:
+            image = cv2.resize(image, self.resize)
+            mask = cv2.resize(mask, self.resize, interpolation=cv2.INTER_NEAREST)
 
-        image = np.transpose(image, (2, 0, 1))  # (C, H, W)
-        mask = np.expand_dims(mask, axis=0)    # (1, H, W)
+        image = np.transpose(image, (2, 0, 1))
+        mask = np.expand_dims(mask, axis=0)
 
         return torch.tensor(image, dtype=torch.float32), torch.tensor(mask, dtype=torch.float32)
 
-# Load paired image/mask paths and split
-def load_segmentation_dataset(image_paths, mask_paths, random_state=360):
-    image_paths = sorted(image_paths)
-    mask_paths = sorted(mask_paths)
+# --- Score Prediction Dataset with Segmentation ---
+class TongueSegScoreDataset(Dataset):
+    def __init__(self, image_paths, score_dict, seg_model, device, transform=None, resize=(256, 320)):
+        self.image_paths = image_paths
+        self.score_dict = score_dict
+        self.seg_model = seg_model
+        self.device = device
+        self.transform = transform
+        self.resize = resize
 
+    def __len__(self):
+        return len(self.image_paths)
+
+    def __getitem__(self, idx):
+        img_path = self.image_paths[idx]
+        filename = os.path.basename(img_path)
+
+        image = cv2.imread(img_path)[:, :, ::-1].astype(np.float32) / 255.0
+        image = cv2.resize(image, self.resize)
+        image_tensor = torch.tensor(image.transpose(2, 0, 1), dtype=torch.float32)
+
+        with torch.no_grad():
+            seg_pred = self.seg_model(image_tensor.unsqueeze(0).to(self.device))
+            seg_mask = torch.sigmoid(seg_pred).squeeze().cpu().numpy()
+        seg_bin = (seg_mask > 0.5).astype(np.uint8)
+        mask_3ch = np.stack([seg_bin]*3, axis=-1)
+        segmented_img = np.where(mask_3ch == 1, image, 0)
+
+        if self.transform:
+            segmented_img = self.transform(Image.fromarray((segmented_img * 255).astype(np.uint8)))
+
+        scores = torch.tensor([
+            self.score_dict[filename]["Coated_Tongue"],
+            self.score_dict[filename]["Jagged_Shape"],
+            self.score_dict[filename]["Cracks"],
+            self.score_dict[filename]["Filiform_Papillae"],
+            self.score_dict[filename]["Fungiform_Redness"]
+        ], dtype=torch.float32)
+
+        return segmented_img, scores
+
+# --- Loader Helpers ---
+def load_segmentation_data():
+    image_paths = get_files(Seg.images)
+    mask_paths = get_files(Seg.masks)
     train_x, val_x, train_y, val_y = train_test_split(
-        image_paths, mask_paths, test_size=0.15, random_state=random_state, shuffle=True
+        image_paths, mask_paths, test_size=0.15, random_state=42
     )
-    return train_x, val_x, train_y, val_y
+    train_dataset = SegmentationDataset(train_x, train_y)
+    val_dataset = SegmentationDataset(val_x, val_y)
+    return (
+        DataLoader(train_dataset, batch_size=Seg.batch, shuffle=True),
+        DataLoader(val_dataset, batch_size=Seg.batch, shuffle=False)
+    )
 
-# Optional: standalone test
-def main():
-    image_paths = get_files(Seg.images, extensions=["*.bmp"])
-    mask_paths = get_files(Seg.masks, extensions=["*.bmp"])
+def load_score_data(seg_model, device):
+    image_paths = get_files("data/scores", extensions=["*.png"])
+    with open("/media/jag/volD/hcl/results/scores.json", "r") as f:
+        raw_scores = json.load(f)
+        score_dict = {entry["file_name"]: entry["scores"] for entry in raw_scores}
 
-    print(f"Total images: {len(image_paths)}, Total masks: {len(mask_paths)}")
-    if len(image_paths) == 0 or len(mask_paths) == 0:
-        print("❌ No image or mask files found.")
-        return
+    train_paths, val_paths = train_test_split(image_paths, test_size=0.2, random_state=42)
 
-    train_images, val_images, train_masks, val_masks = load_segmentation_dataset(image_paths, mask_paths)
+    transform = transforms.Compose([
+        transforms.Resize((224, 224)),
+        transforms.ToTensor(),
+        transforms.Normalize(mean=[0.485, 0.456, 0.406],
+                             std=[0.229, 0.224, 0.225])
+    ])
 
-    print(f"Train: {len(train_images)} images, Val: {len(val_images)} images")
+    train_dataset = TongueSegScoreDataset(train_paths, score_dict, seg_model, device, transform=transform)
+    val_dataset = TongueSegScoreDataset(val_paths, score_dict, seg_model, device, transform=transform)
 
-    train_dataset = SegmentationDataset(train_images, train_masks)
-    val_dataset = SegmentationDataset(val_images, val_masks)
-
-    train_loader = DataLoader(train_dataset, batch_size=Seg.batch, shuffle=True, num_workers=4)
-    val_loader = DataLoader(val_dataset, batch_size=Seg.batch, shuffle=False, num_workers=4)
-
-    x_train, y_train = next(iter(train_loader))
-    x_val, y_val = next(iter(val_loader))
-
-    print(f"Training batch image shape: {x_train.shape}")
-    print(f"Training batch mask shape: {y_train.shape}")   
-    print(f"Validation batch image shape: {x_val.shape}")
-    print(f"Validation batch mask shape: {y_val.shape}")
-
-if __name__ == "__main__":
-    main()
+    return (
+        DataLoader(train_dataset, batch_size=8, shuffle=True),
+        DataLoader(val_dataset, batch_size=8, shuffle=False)
+    )
