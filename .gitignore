@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Data and result directories
+data/
+results/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Model weights and artifacts
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.ckpt
+*.pt
+*.pth
+
+# TensorBoard and experiment tracking
+runs/
+events.out.tfevents.*
