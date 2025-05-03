@@ -77,6 +77,7 @@ def main():
     train_loader = DataLoader(SegmentationDataset(train_imgs, train_masks), batch_size=Seg.batch, shuffle=True, num_workers=4)
     val_loader = DataLoader(SegmentationDataset(val_imgs, val_masks), batch_size=Seg.batch, shuffle=False, num_workers=4)
 
+    # Define model
     model = smp.DeepLabV3Plus(
         encoder_name="resnet34",
         encoder_weights="imagenet",
@@ -84,6 +85,14 @@ def main():
         classes=1,
         activation=None
     ).to(device)
+
+    # Load pretrained weights from saved .pth file
+    pretrained_path = "results/checkpoints/deeplabv3plus_best.pth"
+    if os.path.exists(pretrained_path):
+        model.load_state_dict(torch.load(pretrained_path, map_location=device))
+        print(f"✔️ Loaded pretrained weights from: {pretrained_path}")
+    else:
+        print(f"⚠️ Pretrained weights not found at: {pretrained_path}")
 
     # Freeze encoder for fine-tuning
     for param in model.encoder.parameters():
